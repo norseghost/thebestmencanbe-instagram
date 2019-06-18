@@ -1,0 +1,955 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.2.8"
+    },
+    "node": {
+        "__typename": "GraphVideo",
+        "caption_is_edited": true,
+        "comments_disabled": false,
+        "dash_info": {
+            "is_dash_eligible": false,
+            "number_of_qualities": 0,
+            "video_dash_manifest": null
+        },
+        "dimensions": {
+            "height": 750,
+            "width": 750
+        },
+        "display_resources": [
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/aa2bbf8a33c7dfc279c24e54a0bf15da/5D0A006C/t51.2885-15/sh0.08/e35/s640x640/61340738_2109418275846607_5632812843643914463_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 750,
+                "config_width": 750,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/729a92e57d6873d4defee9232e9d6477/5D09A616/t51.2885-15/e35/61340738_2109418275846607_5632812843643914463_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 1080,
+                "config_width": 1080,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/729a92e57d6873d4defee9232e9d6477/5D09A616/t51.2885-15/e35/61340738_2109418275846607_5632812843643914463_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            }
+        ],
+        "display_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/729a92e57d6873d4defee9232e9d6477/5D09A616/t51.2885-15/e35/61340738_2109418275846607_5632812843643914463_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+        "edge_liked_by": {
+            "count": 300
+        },
+        "edge_media_preview_comment": {
+            "count": 39,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1559848914,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 3
+                        },
+                        "id": "18066228217075538",
+                        "owner": {
+                            "id": "1308171151",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/a58685a65b716994478994d26dc78d5a/5DA449BF/t51.2885-19/s150x150/44844629_1913397422083880_5446366801636098048_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "rachelk903"
+                        },
+                        "text": "@rachelk903 imagine forging your kids to go with you lmaoooo",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559857164,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "id": "18072529096044795",
+                        "owner": {
+                            "id": "19691038",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/76357dfa2027b3180eba5b2604282a19/5D9193BC/t51.2885-19/s150x150/62243772_2426009630789567_5766742710190866432_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "creepi.kitti"
+                        },
+                        "text": "@lnzylouu",
+                        "viewer_has_liked": false
+                    }
+                }
+            ]
+        },
+        "edge_media_preview_like": {
+            "count": 300,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "the reality of abortion shame in Louisville, Kentucky"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 39
+        },
+        "edge_media_to_parent_comment": {
+            "count": 39,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1559760892,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 6
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18004169773219221",
+                        "owner": {
+                            "id": "4309569543",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/48b2e0ee73ad8e8815db9784668450e9/5D8B1191/t51.2885-19/s150x150/64351231_2195680910527841_451849895481966592_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "nia.x.x.f.b"
+                        },
+                        "text": "This makes me sick",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559760899,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 9
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18072890692011966",
+                        "owner": {
+                            "id": "229601022",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/01177e62bed09f0f8c26158081bfef2b/5DC50BD2/t51.2885-19/s150x150/53155887_300770320594693_5890171901250109440_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "bee_ayyy"
+                        },
+                        "text": "Jesus wouldn\u2019t do this shit, ever.",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559761332,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 14
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17888767366347812",
+                        "owner": {
+                            "id": "1756119817",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/23500f0eefd74e3032e58035b8e86564/5DA2D879/t51.2885-19/s150x150/64653088_1122199277986658_7591534367046893568_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "heyy_itss_jayy"
+                        },
+                        "text": "this is so disgusting. no one should have to be shamed for that. she probably isn\u2019t even going in for an abortion \ud83d\ude44 you never know someone\u2019s situation",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559761351,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 6
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1559843768,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "17991884881245019",
+                                        "owner": {
+                                            "id": "13233855359",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/6a42a631d6d8f542b7639e222d5d31b7/5D841A28/t51.2885-19/s150x150/62271103_686757605087011_1268690179112042496_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "thenepalifeminiist"
+                                        },
+                                        "text": "@tori_sobotka Currently, there is only ONE abortion clinic in Kentucky. Sign the petition in my bio to get more abortion clinics built in KY. Every signature counts. Sign and share!",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17892525379338536",
+                        "owner": {
+                            "id": "1500108031",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/a039504c94c841719727413d86560f8b/5DA0724E/t51.2885-19/s150x150/64561917_372030796779824_7621881948830433280_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "tori_sobotka"
+                        },
+                        "text": "Wow, I can't believe I actually live here",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559761697,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 8
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18053590447118861",
+                        "owner": {
+                            "id": "9921559498",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/868fa5c26c6cc8501bbf6d2b2d8dcec8/5D93222D/t51.2885-19/s150x150/61923353_697169024053775_6440185932866912256_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "jocelync_main"
+                        },
+                        "text": "This is disgusting",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559764504,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 16
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1559843760,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "17995745635238409",
+                                        "owner": {
+                                            "id": "13233855359",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/6a42a631d6d8f542b7639e222d5d31b7/5D841A28/t51.2885-19/s150x150/62271103_686757605087011_1268690179112042496_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "thenepalifeminiist"
+                                        },
+                                        "text": "@taytayswiizzle Currently, there is only ONE abortion clinic in Kentucky. Sign the petition in my bio to get more abortion clinics built in KY. Every signature counts. Sign and share!",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17851089457449035",
+                        "owner": {
+                            "id": "235597248",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/3c90e1e775aafbad5776ef6a95ad9658/5D8CAA7F/t51.2885-19/s150x150/62479577_415113366005696_4000146283942641664_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "taytayswiizzle"
+                        },
+                        "text": "The announcer was so over dramatic \u201cyour baby is gonna be ripped limb from limb\u201d like omg shut up",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559765001,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 2
+                        },
+                        "edge_threaded_comments": {
+                            "count": 2,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1559798940,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "17937590605289353",
+                                        "owner": {
+                                            "id": "2261082314",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/9403c2df30878797612ebc28b9e22dcd/5DC6D056/t51.2885-19/s150x150/1169209_1526199764339261_519496577_a.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "cameronwalker4916"
+                                        },
+                                        "text": "@aimsalexander that's rough",
+                                        "viewer_has_liked": false
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "created_at": 1559799192,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "18045645610094277",
+                                        "owner": {
+                                            "id": "144326168",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/a13755293137bf40e37658f10913e0c5/5D8BDA7F/t51.2885-19/s150x150/52147141_780100795682153_6338985856149225472_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "aimsalexander"
+                                        },
+                                        "text": "@cameronwalker4916 fucking awful",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18005163949212348",
+                        "owner": {
+                            "id": "144326168",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/a13755293137bf40e37658f10913e0c5/5D8BDA7F/t51.2885-19/s150x150/52147141_780100795682153_6338985856149225472_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "aimsalexander"
+                        },
+                        "text": "@cameronwalker4916  this is disgusting. Absolutely breaks my heart",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559765209,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 11
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17954113483280056",
+                        "owner": {
+                            "id": "267206049",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/079ec8ce96d22340c3cf1202bfcf4030/5D8393E6/t51.2885-19/s150x150/64394009_374153143452006_4936416525604093952_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "caitlindarr"
+                        },
+                        "text": "maybe she wasn\u2019t even getting an abortion?? there\u2019s so many other reasons she could\u2019ve been going there but go off ig\ud83d\ude44",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559766356,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18007173358215056",
+                        "owner": {
+                            "id": "868014585",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/b122db1d3f600273a954010316f61fdf/5D8792FE/t51.2885-19/s150x150/64374245_1678017135676669_3840523725602553856_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "torreyclark"
+                        },
+                        "text": "There is a sign that reads God Hates. God does not hate. These protestors are morons",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559767117,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 8
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1559843747,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "18035370823167803",
+                                        "owner": {
+                                            "id": "13233855359",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/6a42a631d6d8f542b7639e222d5d31b7/5D841A28/t51.2885-19/s150x150/62271103_686757605087011_1268690179112042496_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "thenepalifeminiist"
+                                        },
+                                        "text": "@mojo.star Currently, there is only ONE abortion clinic in Kentucky. Sign the petition in my bio to get more abortion clinics built in KY. Every signature counts. Sign and share!",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17961972697276550",
+                        "owner": {
+                            "id": "6807796173",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/5d9fb14c369390ebeef80e17d7500c0b/5DC40C1B/t51.2885-19/s150x150/61254338_358015658185217_3462574325905752064_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "mojo.star"
+                        },
+                        "text": "this is so sad. why can\u2019t people just let other people live their lives. jesus old man shut up and go back to watching your 6 o\u2019clock news\ud83d\ude44",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559770043,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 14
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1559843751,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "18039382153152917",
+                                        "owner": {
+                                            "id": "13233855359",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/6a42a631d6d8f542b7639e222d5d31b7/5D841A28/t51.2885-19/s150x150/62271103_686757605087011_1268690179112042496_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "thenepalifeminiist"
+                                        },
+                                        "text": "@hei.dii_ Currently, there is only ONE abortion clinic in Kentucky. Sign the petition in my bio to get more abortion clinics built in KY. Every signature counts. Sign and share!",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17951880673304484",
+                        "owner": {
+                            "id": "6635904918",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/029a1c4ff6cf6f01c3c902ccf40b8a5d/5D88BE36/t51.2885-19/s150x150/60286328_747446688990722_2924106764108431360_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "hei.dii_"
+                        },
+                        "text": "sad thing is they dnt even knw her situation, her reality they dnt knw if she was raped if her body is unable to bear the child if she is not mentality capable of having this child they just stand there shouting and judging and this is the christianity ppl want to be apart of",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559770115,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 5
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17961997507275399",
+                        "owner": {
+                            "id": "1448462804",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/8127d5021bbac51323d9f38a178bbddd/5DA32EBD/t51.2885-19/s150x150/61097481_991897741000083_3992853652812333056_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "priscillapufferfish"
+                        },
+                        "text": "This is sick I\u2019m so angry",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559771875,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 4
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18042239353187050",
+                        "owner": {
+                            "id": "14002621249",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/48c0109e520dd7d2a70e2e08bcffdf9a/5DC38EFD/t51.2885-19/s150x150/60618219_401296903929937_5589096815514353664_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "quitequiet666"
+                        },
+                        "text": "omg \ud83d\ude22 this is heartbreaking it's no one's business what she does with her life!! these people need to back off",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559775057,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17870982403384494",
+                        "owner": {
+                            "id": "1909757846",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/9036c8c1ef1df7a499cd3ee02ec8865f/5D926EEC/t51.2885-19/s150x150/61555071_335621427110480_5356330397187702784_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "mmmeg.g"
+                        },
+                        "text": "thou shall not condemn.",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559775937,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 4
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17952264919281358",
+                        "owner": {
+                            "id": "1144217469",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/4cd42311bd84864b75adb8ee7ea465de/5D93221F/t51.2885-19/s150x150/17817820_230701980740367_623081424005627904_a.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "elizabeth.hofman"
+                        },
+                        "text": "this is so sad",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559779933,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 9
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1559843740,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "17846416648467691",
+                                        "owner": {
+                                            "id": "13233855359",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/6a42a631d6d8f542b7639e222d5d31b7/5D841A28/t51.2885-19/s150x150/62271103_686757605087011_1268690179112042496_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "thenepalifeminiist"
+                                        },
+                                        "text": "@ducky_with_a_bear Currently, there is only ONE abortion clinic in Kentucky. Sign the petition in my bio to get more abortion clinics built in KY. Every signature counts. Sign and share!",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17867233240393600",
+                        "owner": {
+                            "id": "10699206436",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/b15d7eb507d1961c408e0b70a7cdd429/5D954CB1/t51.2885-19/s150x150/62073304_350770402293846_8688288398185594880_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "ducky_with_a_bear"
+                        },
+                        "text": "Funny how the person on the speaker is a guy. What a piece of bull crap all of this. It\u2019s her choice.",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559780099,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 10
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18069021763066822",
+                        "owner": {
+                            "id": "7619720",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/1a5a9fcbd47fe38d39808635574c47c8/5D941B32/t51.2885-19/s150x150/51147754_2287828441493897_8537911985310793728_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "ave_harrison"
+                        },
+                        "text": "This is so wrong.... how disgusting that they need to put a coat over her head and escort her... as if this already isn\u2019t a very difficult and emotional experience for her. It makes me so angry!!!!",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559781857,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18071364733055479",
+                        "owner": {
+                            "id": "1649246548",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/c6413959d251e0b3f9ee88e687db24b6/5D8F9497/t51.2885-19/s150x150/54247946_834051720292698_3172703989506506752_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "deenursaur"
+                        },
+                        "text": "The bible says \u201clet he who be free of sin cast the first stone\u201d....",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559794294,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 5
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17844416635474748",
+                        "owner": {
+                            "id": "2272774406",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/916ea79e35a0b9406a4b506ce2425b8e/5DA54668/t51.2885-19/s150x150/59650134_432425780651443_7136252169925165056_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "p_s_ihateyou"
+                        },
+                        "text": "This honestly makes me a lil sick",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559795924,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 5
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17866829605402380",
+                        "owner": {
+                            "id": "501686092",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/033eff46edd7703e800799310e2dc501/5D7FDEB0/t51.2885-19/s150x150/58408988_2430930196919766_1227736261490376704_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "dp.kvn_"
+                        },
+                        "text": "People die everyday. Having an abortion isn\u2019t going to impact the world or how you live your day. Let the women do make her decision. And just mind your own business.",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559818039,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 6
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17977456606252443",
+                        "owner": {
+                            "id": "2208276856",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/18f1d4d5e31e1906612b69fab5b36f2c/5DA49D6F/t51.2885-19/s150x150/49472614_338180880245545_4067244320330088448_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "artamashi"
+                        },
+                        "text": "they call themselves christians and shit....and think they have a right to control others' lives.... you Will bUrn iN hELL muhahahH",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559843719,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 4
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17961780976275503",
+                        "owner": {
+                            "id": "13233855359",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/6a42a631d6d8f542b7639e222d5d31b7/5D841A28/t51.2885-19/s150x150/62271103_686757605087011_1268690179112042496_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "thenepalifeminiist"
+                        },
+                        "text": "Currently, there is only ONE abortion clinic in Kentucky. Sign the petition in my bio to get more abortion clinics built in KY. Every signature counts. Sign and share!",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559848852,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 3
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1559848914,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 3
+                                        },
+                                        "id": "18066228217075538",
+                                        "owner": {
+                                            "id": "1308171151",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/a58685a65b716994478994d26dc78d5a/5DA449BF/t51.2885-19/s150x150/44844629_1913397422083880_5446366801636098048_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "rachelk903"
+                                        },
+                                        "text": "@rachelk903 imagine forging your kids to go with you lmaoooo",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18008859871202346",
+                        "owner": {
+                            "id": "1308171151",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/a58685a65b716994478994d26dc78d5a/5DA449BF/t51.2885-19/s150x150/44844629_1913397422083880_5446366801636098048_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "rachelk903"
+                        },
+                        "text": "Imagine thinking harassing people to the point where they need/want escorts makes you a good person lmao",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559857164,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18072529096044795",
+                        "owner": {
+                            "id": "19691038",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/76357dfa2027b3180eba5b2604282a19/5D9193BC/t51.2885-19/s150x150/62243772_2426009630789567_5766742710190866432_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "creepi.kitti"
+                        },
+                        "text": "@lnzylouu",
+                        "viewer_has_liked": false
+                    }
+                }
+            ],
+            "page_info": {
+                "end_cursor": "QVFDOHRBdFhVZm9sX1hrMVVaZEJlN3l6VjJuZWVUelBNM25ma1U5ckxoZTM2d1IwdlhUM1VBYUt3WVkzVkt1amt2YnlYSzRvTEZwc0pzMm8td3FlMXpBQw==",
+                "has_next_page": true
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "encoding_status": null,
+        "gating_info": null,
+        "has_ranked_comments": false,
+        "id": "2059735673774308999",
+        "is_ad": false,
+        "is_published": true,
+        "is_video": true,
+        "location": null,
+        "media_preview": null,
+        "owner": {
+            "blocked_by_viewer": false,
+            "followed_by_viewer": false,
+            "full_name": "Feminism / Political \ud83d\udc97",
+            "has_blocked_viewer": false,
+            "id": "13810251524",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/fced1500e59d741a24e922a3361ab0e4/5DA0B5DA/t51.2885-19/s150x150/59720341_388192501786970_3560845788978348032_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+            "requested_by_viewer": false,
+            "username": "oopsfeminism"
+        },
+        "product_type": "feed",
+        "shortcode": "ByVpq6uhH6H",
+        "should_log_client_event": false,
+        "taken_at_timestamp": 1559759730,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/0c0bcc1e4b7cb8b14c577b414edd3f8c/5D09C0A9/t51.2885-15/e35/s150x150/61340738_2109418275846607_5632812843643914463_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/498c43233f0f1597a6885194e1e806d8/5D09FA2F/t51.2885-15/e35/s240x240/61340738_2109418275846607_5632812843643914463_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/9538d3cfd16b180817fc87f04f72d2d8/5D099251/t51.2885-15/e35/s320x320/61340738_2109418275846607_5632812843643914463_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/dfb1bf6043e7481231b35f060658477a/5D09C596/t51.2885-15/e35/s480x480/61340738_2109418275846607_5632812843643914463_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/aa2bbf8a33c7dfc279c24e54a0bf15da/5D0A006C/t51.2885-15/sh0.08/e35/s640x640/61340738_2109418275846607_5632812843643914463_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            }
+        ],
+        "thumbnail_src": "https://instagram.faal2-1.fna.fbcdn.net/vp/aa2bbf8a33c7dfc279c24e54a0bf15da/5D0A006C/t51.2885-15/sh0.08/e35/s640x640/61340738_2109418275846607_5632812843643914463_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+        "title": "",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6ImJmODAwODU5NmNhZjRlZjE5OTQ2M2VkYzVjNTkxYjY3MjA1OTczNTY3Mzc3NDMwODk5OSJ9LCJzaWduYXR1cmUiOiIifQ==",
+        "video_duration": 59.93,
+        "video_url": "https://scontent.cdninstagram.com/vp/3c022fc551bca355d4eba264b04ad1ca/5D0A0D54/t50.2886-16/62573853_2348170582175307_2198809052648046592_n.mp4?_nc_ht=scontent.cdninstagram.com",
+        "video_view_count": 1637,
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

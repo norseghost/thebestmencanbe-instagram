@@ -1,0 +1,188 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.2.8"
+    },
+    "node": {
+        "__typename": "GraphVideo",
+        "caption_is_edited": false,
+        "comments_disabled": false,
+        "dash_info": {
+            "is_dash_eligible": false,
+            "number_of_qualities": 0,
+            "video_dash_manifest": null
+        },
+        "dimensions": {
+            "height": 1332,
+            "width": 750
+        },
+        "display_resources": [
+            {
+                "config_height": 1136,
+                "config_width": 640,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/4387b38f3e35e8cdf187319ecd190ede/5D09938A/t51.2885-15/e15/p640x640/53030744_340099546610122_4947509958631253201_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 1332,
+                "config_width": 750,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/f8168a2578a1adfe52d7032008cac1cc/5D0989E7/t51.2885-15/e15/53030744_340099546610122_4947509958631253201_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 1918,
+                "config_width": 1080,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/f8168a2578a1adfe52d7032008cac1cc/5D0989E7/t51.2885-15/e15/53030744_340099546610122_4947509958631253201_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            }
+        ],
+        "display_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/f8168a2578a1adfe52d7032008cac1cc/5D0989E7/t51.2885-15/e15/53030744_340099546610122_4947509958631253201_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+        "edge_liked_by": {
+            "count": 123
+        },
+        "edge_media_preview_comment": {
+            "count": 2,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1552594374,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "id": "18044529601038400",
+                        "owner": {
+                            "id": "32263465",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/cc256275e9f4e27663bfc383bb16a126/5D8F2EC0/t51.2885-19/s150x150/57257154_634706183624123_3342330235348582400_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "tmjames7"
+                        },
+                        "text": "\u2668\ufe0f\u2668\ufe0f\u2668\ufe0f\u2668\ufe0f\ud83d\udcaf\ud83d\udcaf\ud83d\udcaf\ud83d\udcaf",
+                        "viewer_has_liked": false
+                    }
+                }
+            ]
+        },
+        "edge_media_preview_like": {
+            "count": 123,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "@bleuxcreme had the pleasure of working with @georgewrighster and #teamwrighster recently on Gillette\u2019s @operationhomefront campaign. Check out George\u2019s IG for more info on the campaign.\n.\n.\n.\n.\n.\n.\n#jaeisla #bleuxcreme #gillette #gillettead #ad #operationhomefront #family #dads #nfl #army #navy #airforce #marines #coastguard #military"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 2
+        },
+        "edge_media_to_parent_comment": {
+            "count": 2,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1552594374,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18044529601038400",
+                        "owner": {
+                            "id": "32263465",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/cc256275e9f4e27663bfc383bb16a126/5D8F2EC0/t51.2885-19/s150x150/57257154_634706183624123_3342330235348582400_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "tmjames7"
+                        },
+                        "text": "\u2668\ufe0f\u2668\ufe0f\u2668\ufe0f\u2668\ufe0f\ud83d\udcaf\ud83d\udcaf\ud83d\udcaf\ud83d\udcaf",
+                        "viewer_has_liked": false
+                    }
+                }
+            ],
+            "page_info": {
+                "end_cursor": null,
+                "has_next_page": false
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "encoding_status": null,
+        "gating_info": null,
+        "has_ranked_comments": false,
+        "id": "1999512004972385642",
+        "is_ad": false,
+        "is_published": true,
+        "is_video": true,
+        "location": null,
+        "media_preview": null,
+        "owner": {
+            "blocked_by_viewer": false,
+            "followed_by_viewer": false,
+            "full_name": "Bleu & Creme",
+            "has_blocked_viewer": false,
+            "id": "8554396667",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/dc94ff927849303d61a8ee0da137b0b6/5D95FF0E/t51.2885-19/s150x150/49443106_298178280890635_785872719022391296_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+            "requested_by_viewer": false,
+            "username": "bleuxcreme"
+        },
+        "product_type": "igtv",
+        "shortcode": "Bu_sZMcghVq",
+        "should_log_client_event": false,
+        "taken_at_timestamp": 1552580825,
+        "thumbnail_resources": [
+            {
+                "config_height": 266,
+                "config_width": 150,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/78ff0922de8d38845130b48442b550e0/5D09FF95/t51.2885-15/e15/p150x150/53030744_340099546610122_4947509958631253201_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 426,
+                "config_width": 240,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/c89c1c7e7ae2b86cf860d05065b2f7c9/5D09905F/t51.2885-15/e15/p240x240/53030744_340099546610122_4947509958631253201_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 568,
+                "config_width": 320,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/ba229cd385f6516ff20c0c2bfcaf1189/5D099365/t51.2885-15/e15/p320x320/53030744_340099546610122_4947509958631253201_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 852,
+                "config_width": 480,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/5c26f708396223d9d1c7a0013ce727f6/5D09D57F/t51.2885-15/e15/p480x480/53030744_340099546610122_4947509958631253201_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 1136,
+                "config_width": 640,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/4387b38f3e35e8cdf187319ecd190ede/5D09938A/t51.2885-15/e15/p640x640/53030744_340099546610122_4947509958631253201_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            }
+        ],
+        "thumbnail_src": "https://instagram.faal2-1.fna.fbcdn.net/vp/43d33ac06dab0a1086691fcaf2e45125/5D09A6AF/t51.2885-15/e15/c0.279.720.720/s640x640/53030744_340099546610122_4947509958631253201_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+        "title": "Every Hero Sweats, Some Never Show It",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiMmYwMjFhNDE4ODlmNDllM2I1MzIzNzFhZDliMTc3ZTExOTk5NTEyMDA0OTcyMzg1NjQyIn0sInNpZ25hdHVyZSI6IiJ9",
+        "video_duration": 117.469,
+        "video_url": "https://scontent.cdninstagram.com/vp/8555ec8a31276ff123963472a9f930bb/5D09B5B4/t50.16885-16/10000000_255575772046920_3678911613856907264_n.mp4?_nc_ht=scontent.cdninstagram.com",
+        "video_view_count": 128,
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

@@ -1,0 +1,966 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.2.8"
+    },
+    "node": {
+        "__typename": "GraphVideo",
+        "caption_is_edited": false,
+        "comments_disabled": false,
+        "dash_info": {
+            "is_dash_eligible": false,
+            "number_of_qualities": 0,
+            "video_dash_manifest": null
+        },
+        "dimensions": {
+            "height": 750,
+            "width": 750
+        },
+        "display_resources": [
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/4f1655aabbfaec9cb4a3ca378fcfe474/5D0A77A0/t51.2885-15/sh0.08/e35/s640x640/60730277_851418698590295_3941324181618328293_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 750,
+                "config_width": 750,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/3da5c9faaaa549b48a03262835b8f000/5D0AC8C5/t51.2885-15/e35/60730277_851418698590295_3941324181618328293_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 1080,
+                "config_width": 1080,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/3da5c9faaaa549b48a03262835b8f000/5D0AC8C5/t51.2885-15/e35/60730277_851418698590295_3941324181618328293_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            }
+        ],
+        "display_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/3da5c9faaaa549b48a03262835b8f000/5D0AC8C5/t51.2885-15/e35/60730277_851418698590295_3941324181618328293_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+        "edge_liked_by": {
+            "count": 612
+        },
+        "edge_media_preview_comment": {
+            "count": 63,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1558708826,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "id": "17857994194411662",
+                        "owner": {
+                            "id": "1829472290",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/dbaa7fa8e1ce6f8e9f9cbc5640366abc/5D7FAF85/t51.2885-19/s150x150/52885485_254953835447993_1756554101220442112_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "p_e.2129"
+                        },
+                        "text": "I truly had such an amazing experience \ud83d\udc93\ud83d\ude0d",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559084271,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "id": "18043448506086066",
+                        "owner": {
+                            "id": "6595308958",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/6771451198644a96413d760b15b130f9/5D84DA5E/t51.2885-19/s150x150/42669449_303456283815914_2730651958103769088_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "freedoms_more_important"
+                        },
+                        "text": "Sounds like a great place to spend a weekend! Haven't been to Jersey, in ages.",
+                        "viewer_has_liked": false
+                    }
+                }
+            ]
+        },
+        "edge_media_preview_like": {
+            "count": 612,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Did you know that when our expansion is complete this year (sorry for the delay) we will have six ranges 66 ports. Members only ranges. 210 parking spaces. A barista bar. Members cigar lounge and much, much more. Don\u2019t miss the boat. Not just a range but a freedom destination! #gunforhire #gunrange #gunforhirerange #freedom #cigar #barista #newjersey #nyc #nj #newyorkcity #manhattan #nra"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 63
+        },
+        "edge_media_to_parent_comment": {
+            "count": 63,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1558558511,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18067590004021291",
+                        "owner": {
+                            "id": "3863275081",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/53e9cd1a4e2ba16486f56ecf05e627db/5D969D2E/t51.2885-19/s150x150/29739553_929897317170739_5475020345238880256_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "gunner_view"
+                        },
+                        "text": "\ud83d\ude4c",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1558559098,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18067805347007449",
+                        "owner": {
+                            "id": "243753523",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/bfe8a9c7b108e3d12b6df959281ac71c/5DA0FE5B/t51.2885-19/s150x150/33370459_169301990411592_7188564321834631168_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "rosemarylola1021"
+                        },
+                        "text": "I\u2019m going to New jersey\ud83d\ude18",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1558559140,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 3
+                        },
+                        "edge_threaded_comments": {
+                            "count": 3,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1558559707,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "18035789146144845",
+                                        "owner": {
+                                            "id": "286811907",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/067e18992111978cc679b3be8bc6d091/5DC1524F/t51.2885-19/s150x150/60423805_427819861129000_9159321339893383168_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "gunforhire"
+                                        },
+                                        "text": "@louie_vivo soon.",
+                                        "viewer_has_liked": false
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "created_at": 1558560374,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 3
+                                        },
+                                        "id": "18062608201069045",
+                                        "owner": {
+                                            "id": "233502954",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/b16e662bef90ad96f0256381bba15603/5D8921A2/t51.2885-19/s150x150/47585874_534414317037893_2491817365168193536_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "louie_vivo"
+                                        },
+                                        "text": "@gunforhire I\u2019ll be looking forward to loitering there too, like I did this past weekend haha #freedom",
+                                        "viewer_has_liked": false
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "created_at": 1558560725,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 2
+                                        },
+                                        "id": "18031739107165223",
+                                        "owner": {
+                                            "id": "286811907",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/067e18992111978cc679b3be8bc6d091/5DC1524F/t51.2885-19/s150x150/60423805_427819861129000_9159321339893383168_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "gunforhire"
+                                        },
+                                        "text": "@louie_vivo #metoo",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18063782518067580",
+                        "owner": {
+                            "id": "233502954",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/b16e662bef90ad96f0256381bba15603/5D8921A2/t51.2885-19/s150x150/47585874_534414317037893_2491817365168193536_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "louie_vivo"
+                        },
+                        "text": "Any updated ETA to open?",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1558560416,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18003646246207799",
+                        "owner": {
+                            "id": "198183314",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/8352b7aef9550f515a77e0acd733c26c/5D903DAA/t51.2885-19/s150x150/13402479_1721443384776669_1105963272_a.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "mattfalco_"
+                        },
+                        "text": "Looking forward to going.",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1558560545,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17855393950423980",
+                        "owner": {
+                            "id": "5789137435",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/3aad8f30532d14f0ffc98a7f5d656373/5D9014DB/t51.2885-19/s150x150/53183088_1502596929873924_2465665987907682304_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "russsnj"
+                        },
+                        "text": "\ud83d\udc4f\ud83c\uddfa\ud83c\uddf8\ud83e\udd1d",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1558560576,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17975006122247729",
+                        "owner": {
+                            "id": "227559599",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/7bbb1080fa8af7cef52055238468b057/5DC281CA/t51.2885-19/s150x150/11850324_800513403386665_780139998_a.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "gotturbo"
+                        },
+                        "text": "That is so cool.",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1558563775,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18045887377121024",
+                        "owner": {
+                            "id": "3584884573",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/0bdfb5998baf5a712853144ee332ef77/5DC1F0A1/t51.2885-19/s150x150/13743605_136308640138955_627685228_a.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "rocksclone"
+                        },
+                        "text": "Miss you brother..",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1558564268,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18050967322107608",
+                        "owner": {
+                            "id": "7561548008",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/7aa652f5721f6b9b0c7d15c351230e29/5D960601/t51.2885-19/s150x150/36963217_418028998706150_7868732836230987776_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "gmoneychristmas"
+                        },
+                        "text": "You're a beast. Congrats on an amazing facility. Keep it up and God bless ya",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1558565194,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17866853314389261",
+                        "owner": {
+                            "id": "19442538",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/43dd39d08192a54f8017790348445b40/5DA1FAF5/t51.2885-19/s150x150/55829772_564376044060803_2601656034162376704_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "oh_yea_art"
+                        },
+                        "text": "@gunforhire fuk yea #merica",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1558567463,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17881291264359363",
+                        "owner": {
+                            "id": "567376459",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/b0454e3ae7a60271550eca199f89794b/5D981E98/t51.2885-19/s150x150/12357750_1634527383476491_286159560_a.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "josephjr1230"
+                        },
+                        "text": "\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1558568404,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18069759655057762",
+                        "owner": {
+                            "id": "225538455",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/84bc65addbb0b5019bf5138b10e50370/5D9FCB41/t51.2885-19/s150x150/1169749_1549644628666811_324514210_a.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "shlee973"
+                        },
+                        "text": "Can\u2019t wait to become a member sir!! Just perfect",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1558569562,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18051574675098800",
+                        "owner": {
+                            "id": "8066107351",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/d5e4890707c382af8d54f3f9162fc885/5D8D470D/t51.2885-19/s150x150/36135734_2027738527257706_1599457421737066496_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "raiden_hayden"
+                        },
+                        "text": "Are the snacks gluten free, and is there busing to and from.....asking for a friend",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1558569586,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18041324074095181",
+                        "owner": {
+                            "id": "243627741",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/dff7b3fbc6c699f01227c4e53e0e4b9e/5DA5BBFF/t51.2885-19/s150x150/60329391_2319636244918749_2518025728054788096_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "jonathnlima"
+                        },
+                        "text": "\ud83d\udd25\ud83d\udd25\ud83d\udd25amen",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1558577372,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17991589492238724",
+                        "owner": {
+                            "id": "1403928402",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/5923b56132485d52185b4cdb73a1741c/5DC565EC/t51.2885-19/s150x150/23734996_1555169737884914_6084135201317847040_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "hbound956"
+                        },
+                        "text": "Dam you ARE # 1 \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1558578976,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17867069083377667",
+                        "owner": {
+                            "id": "1242802801",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/e60c7f5b22f4567bda266425354ad867/5DC4CE81/t51.2885-19/s150x150/58468685_816355565404767_6912281260505169920_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "paaezano"
+                        },
+                        "text": "\ud83d\ude4c\ud83c\udffc\ud83d\ude4c\ud83c\udffc\ud83d\ude4c\ud83c\udffc\ud83d\ude4c\ud83c\udffc",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1558578998,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18034288942152663",
+                        "owner": {
+                            "id": "1242802801",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/e60c7f5b22f4567bda266425354ad867/5DC4CE81/t51.2885-19/s150x150/58468685_816355565404767_6912281260505169920_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "paaezano"
+                        },
+                        "text": "@henryesfuerte lmk when you\u2019re ready to shoot some guns!",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1558600198,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 2,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1558605578,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "18069903886014823",
+                                        "owner": {
+                                            "id": "286811907",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/067e18992111978cc679b3be8bc6d091/5DC1524F/t51.2885-19/s150x150/60423805_427819861129000_9159321339893383168_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "gunforhire"
+                                        },
+                                        "text": "@fenderstratavarius_ both.",
+                                        "viewer_has_liked": false
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "created_at": 1558606259,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "17872827991373773",
+                                        "owner": {
+                                            "id": "2198761770",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/717e7115690dbe487397fc8d9f80f3f5/5D948B44/t51.2885-19/s150x150/50642257_834170396933202_8647783343301066752_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "fenderstratavarius_"
+                                        },
+                                        "text": "@gunforhire I live on the opposite side of the country, in Libafornia.",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18037175506193301",
+                        "owner": {
+                            "id": "2198761770",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/717e7115690dbe487397fc8d9f80f3f5/5D948B44/t51.2885-19/s150x150/50642257_834170396933202_8647783343301066752_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "fenderstratavarius_"
+                        },
+                        "text": "God bless America\u201d I\u2019d Loooove to Shoot at that Range, is it 50 yard or 25?",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1558607595,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17902703782308515",
+                        "owner": {
+                            "id": "3257701025",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/937cc916ce08f66e626adea63df6d004/5D801EC2/t51.2885-19/s150x150/36602346_245660896239854_7225328692132577280_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "thedivinemissm67"
+                        },
+                        "text": "Can\u2019t wait \u2014 been \ud83d\udc40 forward since first announcement! This is the most anticipated grand opening ever! \ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb \ud83d\udc4d\ud83c\udffb #pewpew",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1558611575,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17878781278362856",
+                        "owner": {
+                            "id": "16571791",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/13a887aeec507bd5ddb631f0e009962a/5D915B67/t51.2885-19/s150x150/59661598_2259767144099963_9004722780893085696_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "cocobeats"
+                        },
+                        "text": "Wooooo!!! Cant wait!!",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1558621422,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18068594866039651",
+                        "owner": {
+                            "id": "34056979",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/f2545469697739c48e6050b3d6c312a3/5DA5A052/t51.2885-19/s150x150/52347948_411343182743503_3453555036318072832_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "french_vargas"
+                        },
+                        "text": "your the Man! Great job! I cant wait to visit \ud83d\udd25\ud83d\udd25\ud83d\udcaf\ud83d\udcaa\ud83c\udffc\ud83d\udcaa\ud83c\udffc",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1558628173,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 2
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18067535038065134",
+                        "owner": {
+                            "id": "7218009477",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/c21feb3de898b1141cd76e93d14da16d/5D845544/t51.2885-19/s150x150/32466696_225565101542746_5206687066510852096_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "teeny_tiny_teo"
+                        },
+                        "text": "The American patriot is the perfect marketing for a gun range #genius",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1558663469,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 2,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1558663544,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "17867274880377303",
+                                        "owner": {
+                                            "id": "1675725692",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/9fb6a542298006fd88ce57ab38616b14/5D855349/t51.2885-19/s150x150/61300762_890809384584949_3953963690314694656_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "kevigasm"
+                                        },
+                                        "text": "When I go over there, can I get a picture with you? Its nice to meet 2a lovers in this state where they ate so rare",
+                                        "viewer_has_liked": false
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "created_at": 1558664103,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "18006415660202910",
+                                        "owner": {
+                                            "id": "286811907",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/067e18992111978cc679b3be8bc6d091/5DC1524F/t51.2885-19/s150x150/60423805_427819861129000_9159321339893383168_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "gunforhire"
+                                        },
+                                        "text": "@kevigasm yes sir.",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18067624132053287",
+                        "owner": {
+                            "id": "1675725692",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/9fb6a542298006fd88ce57ab38616b14/5D855349/t51.2885-19/s150x150/61300762_890809384584949_3953963690314694656_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "kevigasm"
+                        },
+                        "text": "What a legend. God bless you sir",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1558708826,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17857994194411662",
+                        "owner": {
+                            "id": "1829472290",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/dbaa7fa8e1ce6f8e9f9cbc5640366abc/5D7FAF85/t51.2885-19/s150x150/52885485_254953835447993_1756554101220442112_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "p_e.2129"
+                        },
+                        "text": "I truly had such an amazing experience \ud83d\udc93\ud83d\ude0d",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559084271,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18043448506086066",
+                        "owner": {
+                            "id": "6595308958",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/6771451198644a96413d760b15b130f9/5D84DA5E/t51.2885-19/s150x150/42669449_303456283815914_2730651958103769088_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "freedoms_more_important"
+                        },
+                        "text": "Sounds like a great place to spend a weekend! Haven't been to Jersey, in ages.",
+                        "viewer_has_liked": false
+                    }
+                }
+            ],
+            "page_info": {
+                "end_cursor": "QVFCLTh5QjBfdllaMEk4WktnRWR1bVdEU25rLW5jNEdaVmoyZk9xQ2M5UWk0c1MyMXo0c0hlQWhaR0NvN3ZGUWxPdEl0NXFKXzRqb2k5X2tIdUFZbmpKRQ==",
+                "has_next_page": true
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": [
+                {
+                    "node": {
+                        "user": {
+                            "full_name": "Anthony Gunforhire Colandro",
+                            "id": "286811907",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/067e18992111978cc679b3be8bc6d091/5DC1524F/t51.2885-19/s150x150/60423805_427819861129000_9159321339893383168_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "gunforhire"
+                        },
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "node": {
+                        "user": {
+                            "full_name": "Gun For Hire Range",
+                            "id": "7725903603",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/effd2f06a1a818695840c23afbf40449/5D93E2C6/t51.2885-19/s150x150/31474751_626942344321951_2993694056166457344_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "gunforhirerange"
+                        },
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                }
+            ]
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "encoding_status": null,
+        "gating_info": null,
+        "has_ranked_comments": false,
+        "id": "2049535284698588425",
+        "is_ad": false,
+        "is_published": true,
+        "is_video": true,
+        "location": {
+            "address_json": "{\"street_address\": \"1267 McBride Ave\", \"zip_code\": \"07424\", \"city_name\": \"Woodland Park, New Jersey\", \"region_name\": \"\", \"country_code\": \"US\", \"exact_city_match\": false, \"exact_region_match\": false, \"exact_country_match\": false}",
+            "has_public_page": true,
+            "id": "176105702407949",
+            "name": "Gun For Hire, LLC",
+            "slug": "gun-for-hire-llc"
+        },
+        "media_preview": null,
+        "owner": {
+            "blocked_by_viewer": false,
+            "followed_by_viewer": false,
+            "full_name": "Anthony Gunforhire Colandro",
+            "has_blocked_viewer": false,
+            "id": "286811907",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/067e18992111978cc679b3be8bc6d091/5DC1524F/t51.2885-19/s150x150/60423805_427819861129000_9159321339893383168_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+            "requested_by_viewer": false,
+            "username": "gunforhire"
+        },
+        "product_type": "feed",
+        "shortcode": "BxxaXuHFqUJ",
+        "should_log_client_event": false,
+        "taken_at_timestamp": 1558543699,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/33940311a15051bbbb35449023f29b4f/5D0A2D87/t51.2885-15/e35/s150x150/60730277_851418698590295_3941324181618328293_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/68f39b7a1d2c1d872105b19f225dbf41/5D0AB2CD/t51.2885-15/e35/s240x240/60730277_851418698590295_3941324181618328293_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/cf34e89080151b98210bc0c189efad08/5D0A5A37/t51.2885-15/e35/s320x320/60730277_851418698590295_3941324181618328293_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/e2ae6626b21d5321db9e17f82e1a3322/5D0A266D/t51.2885-15/e35/s480x480/60730277_851418698590295_3941324181618328293_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/4f1655aabbfaec9cb4a3ca378fcfe474/5D0A77A0/t51.2885-15/sh0.08/e35/s640x640/60730277_851418698590295_3941324181618328293_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            }
+        ],
+        "thumbnail_src": "https://instagram.faal2-1.fna.fbcdn.net/vp/4f1655aabbfaec9cb4a3ca378fcfe474/5D0A77A0/t51.2885-15/sh0.08/e35/s640x640/60730277_851418698590295_3941324181618328293_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+        "title": "",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNjRhYzAxZGZiOGU3NGFiNGJlMTM0Yzk1ZmNmYjdlYjYyMDQ5NTM1Mjg0Njk4NTg4NDI1In0sInNpZ25hdHVyZSI6IiJ9",
+        "video_duration": 58.329,
+        "video_url": "https://scontent.cdninstagram.com/vp/975c69579ff5e09fd8747fc73f403fc4/5D0A5D27/t50.2886-16/61235566_317610699171790_7112557191835418624_n.mp4?_nc_ht=scontent.cdninstagram.com",
+        "video_view_count": 2328,
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

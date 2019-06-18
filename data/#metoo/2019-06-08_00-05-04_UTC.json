@@ -1,0 +1,351 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.2.8"
+    },
+    "node": {
+        "__typename": "GraphVideo",
+        "caption_is_edited": true,
+        "comments_disabled": false,
+        "dash_info": {
+            "is_dash_eligible": false,
+            "number_of_qualities": 0,
+            "video_dash_manifest": null
+        },
+        "dimensions": {
+            "height": 937,
+            "width": 750
+        },
+        "display_resources": [
+            {
+                "config_height": 800,
+                "config_width": 640,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/aab802ca52d070b8cefe8f57a4634684/5D099BE0/t51.2885-15/sh0.08/e35/p640x640/60987411_170080974014937_6948511724163287842_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 937,
+                "config_width": 750,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/bcbc5f94e0c7a7c371a4d97c0ed2a9df/5D09B216/t51.2885-15/e35/60987411_170080974014937_6948511724163287842_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 1350,
+                "config_width": 1080,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/bcbc5f94e0c7a7c371a4d97c0ed2a9df/5D09B216/t51.2885-15/e35/60987411_170080974014937_6948511724163287842_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            }
+        ],
+        "display_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/bcbc5f94e0c7a7c371a4d97c0ed2a9df/5D09B216/t51.2885-15/e35/60987411_170080974014937_6948511724163287842_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+        "edge_liked_by": {
+            "count": 40
+        },
+        "edge_media_preview_comment": {
+            "count": 8,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1560025744,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "id": "18009294739203386",
+                        "owner": {
+                            "id": "1410485002",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/a3313a1140f7cccc38e8e79a872b6362/5DC20C47/t51.2885-19/s150x150/35574550_456040101487842_7126891267228696576_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "joewarfield.jw"
+                        },
+                        "text": "@alexprince215 yes, if its true.",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1560036244,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "id": "17857004458434009",
+                        "owner": {
+                            "id": "8566131696",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/04ea8180d3f6dd00b8a447e52ece1aac/5D7FE892/t51.2885-19/s150x150/40601515_665317167167520_7916679871143608320_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "alexprince215"
+                        },
+                        "text": "@joewarfield.jw yeah it's crazy you have to play the game accordingly to have a lasting career smh",
+                        "viewer_has_liked": false
+                    }
+                }
+            ]
+        },
+        "edge_media_preview_like": {
+            "count": 40,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "The Chi must go on \ud83d\udcfa#jasonmitchell #lenawaithe #cthagod #showtime #50cent #metoo #comedy #alexprince215"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 8
+        },
+        "edge_media_to_parent_comment": {
+            "count": 8,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1559958308,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1560025744,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "18009294739203386",
+                                        "owner": {
+                                            "id": "1410485002",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/a3313a1140f7cccc38e8e79a872b6362/5DC20C47/t51.2885-19/s150x150/35574550_456040101487842_7126891267228696576_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "joewarfield.jw"
+                                        },
+                                        "text": "@alexprince215 yes, if its true.",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18073187380008651",
+                        "owner": {
+                            "id": "8566131696",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/04ea8180d3f6dd00b8a447e52ece1aac/5D7FE892/t51.2885-19/s150x150/40601515_665317167167520_7916679871143608320_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "alexprince215"
+                        },
+                        "text": "There is no excuse for that kind of behavior in this climate\u26c8",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1560020579,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 2
+                        },
+                        "edge_threaded_comments": {
+                            "count": 3,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1560022724,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "17887126399355512",
+                                        "owner": {
+                                            "id": "8566131696",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/04ea8180d3f6dd00b8a447e52ece1aac/5D7FE892/t51.2885-19/s150x150/40601515_665317167167520_7916679871143608320_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "alexprince215"
+                                        },
+                                        "text": "@joewarfield.jw yeah that's true it's probably best for him to not speak on the accusations pr move",
+                                        "viewer_has_liked": false
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "created_at": 1560023810,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "17867800225393256",
+                                        "owner": {
+                                            "id": "1410485002",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/a3313a1140f7cccc38e8e79a872b6362/5DC20C47/t51.2885-19/s150x150/35574550_456040101487842_7126891267228696576_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "joewarfield.jw"
+                                        },
+                                        "text": "@alexprince215 i just think too many ate crying wolf and I'm glad men are fighting back.",
+                                        "viewer_has_liked": false
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "created_at": 1560024793,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "18057409357098273",
+                                        "owner": {
+                                            "id": "8566131696",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/04ea8180d3f6dd00b8a447e52ece1aac/5D7FE892/t51.2885-19/s150x150/40601515_665317167167520_7916679871143608320_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "alexprince215"
+                                        },
+                                        "text": "@joewarfield.jw yeah the best to do is stay silent until you can prove otherwise tough times",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17845535899471184",
+                        "owner": {
+                            "id": "1410485002",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/a3313a1140f7cccc38e8e79a872b6362/5DC20C47/t51.2885-19/s150x150/35574550_456040101487842_7126891267228696576_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "joewarfield.jw"
+                        },
+                        "text": "The sad part about all this is that no one has asked him his side of the story. I'm so glad the farce of a me too era is coming to an end. I'm tired of men being accused and no one os asking their side. There are two sides to every story. He'll be back. Mel Gibson bounced back so will he.",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1560025449,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1560036244,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "17857004458434009",
+                                        "owner": {
+                                            "id": "8566131696",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/04ea8180d3f6dd00b8a447e52ece1aac/5D7FE892/t51.2885-19/s150x150/40601515_665317167167520_7916679871143608320_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "alexprince215"
+                                        },
+                                        "text": "@joewarfield.jw yeah it's crazy you have to play the game accordingly to have a lasting career smh",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18065146051072690",
+                        "owner": {
+                            "id": "1410485002",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/a3313a1140f7cccc38e8e79a872b6362/5DC20C47/t51.2885-19/s150x150/35574550_456040101487842_7126891267228696576_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "joewarfield.jw"
+                        },
+                        "text": "Well I Encourage men to fight back. Its too easy to accuse people of something when public court convicts them and wants to destroy their lives. I'm sick of it and thank God I was raised by a strong father and mother who taught how to treat people in more importantly how to take up for myself. I'll never stay silent",
+                        "viewer_has_liked": false
+                    }
+                }
+            ],
+            "page_info": {
+                "end_cursor": null,
+                "has_next_page": false
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "encoding_status": null,
+        "gating_info": null,
+        "has_ranked_comments": false,
+        "id": "2061351496481641301",
+        "is_ad": false,
+        "is_published": true,
+        "is_video": true,
+        "location": null,
+        "media_preview": null,
+        "owner": {
+            "blocked_by_viewer": false,
+            "followed_by_viewer": false,
+            "full_name": "Alex Prince",
+            "has_blocked_viewer": false,
+            "id": "8566131696",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/04ea8180d3f6dd00b8a447e52ece1aac/5D7FE892/t51.2885-19/s150x150/40601515_665317167167520_7916679871143608320_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+            "requested_by_viewer": false,
+            "username": "alexprince215"
+        },
+        "product_type": "feed",
+        "shortcode": "BybZEO5AhNV",
+        "should_log_client_event": false,
+        "taken_at_timestamp": 1559952304,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/7169820e0b2a741348a0c473665ffe72/5D0994EB/t51.2885-15/e35/c0.90.720.720/s150x150/60987411_170080974014937_6948511724163287842_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/58d0a92958fd1ef6191417651cd592ec/5D0990A1/t51.2885-15/e35/c0.90.720.720/s240x240/60987411_170080974014937_6948511724163287842_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/5888835e64202e76fee656a86ab968a3/5D09879B/t51.2885-15/e35/c0.90.720.720/s320x320/60987411_170080974014937_6948511724163287842_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/5eaae1163ccfa5bf390654655d17cece/5D09B801/t51.2885-15/e35/c0.90.720.720/s480x480/60987411_170080974014937_6948511724163287842_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/af0253a2c6ab308042d873d7046a7ce3/5D09B622/t51.2885-15/sh0.08/e35/c0.90.720.720/s640x640/60987411_170080974014937_6948511724163287842_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            }
+        ],
+        "thumbnail_src": "https://instagram.faal2-1.fna.fbcdn.net/vp/af0253a2c6ab308042d873d7046a7ce3/5D09B622/t51.2885-15/sh0.08/e35/c0.90.720.720/s640x640/60987411_170080974014937_6948511724163287842_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+        "title": "",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZWFhYTQ5NzZkOWQ1NGFkZDgyYjdjYjI2YTM1NmJjOWEyMDYxMzUxNDk2NDgxNjQxMzAxIn0sInNpZ25hdHVyZSI6IiJ9",
+        "video_duration": 32.53,
+        "video_url": "https://scontent.cdninstagram.com/vp/28b71b04df09671cdc1de959a6e68b04/5D09CFA2/t50.2886-16/62537359_436802063785617_7602474134081110016_n.mp4?_nc_ht=scontent.cdninstagram.com",
+        "video_view_count": 167,
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

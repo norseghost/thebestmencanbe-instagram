@@ -1,0 +1,1098 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.2.8"
+    },
+    "node": {
+        "__typename": "GraphVideo",
+        "caption_is_edited": false,
+        "comments_disabled": false,
+        "dash_info": {
+            "is_dash_eligible": false,
+            "number_of_qualities": 0,
+            "video_dash_manifest": null
+        },
+        "dimensions": {
+            "height": 360,
+            "width": 480
+        },
+        "display_resources": [
+            {
+                "config_height": 480,
+                "config_width": 640,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/54670330766af924c1c76586b8f81662/5D09CD5C/t51.2885-15/e35/61254834_139450297129148_3497461271118022613_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 562,
+                "config_width": 750,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/54670330766af924c1c76586b8f81662/5D09CD5C/t51.2885-15/e35/61254834_139450297129148_3497461271118022613_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 810,
+                "config_width": 1080,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/54670330766af924c1c76586b8f81662/5D09CD5C/t51.2885-15/e35/61254834_139450297129148_3497461271118022613_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            }
+        ],
+        "display_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/54670330766af924c1c76586b8f81662/5D09CD5C/t51.2885-15/e35/61254834_139450297129148_3497461271118022613_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+        "edge_liked_by": {
+            "count": 161
+        },
+        "edge_media_preview_comment": {
+            "count": 41,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1558920543,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "id": "17851270405438358",
+                        "owner": {
+                            "id": "336019463",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/89a540bc369acf017e0b5665570b8ced/5DC2A3E8/t51.2885-19/s150x150/58410109_2267274766651683_4174405476647174144_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "jakesimpsonmusic"
+                        },
+                        "text": "Love that solo, killer job on it man\ud83d\udd25",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559040599,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "id": "18071250736059199",
+                        "owner": {
+                            "id": "5842712618",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/4352ab0a73353cd17d2050284bb6ea7b/5D8B29BF/t51.2885-19/s150x150/22858421_1974049802869598_6835265672184856576_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "sabbath_in_chains_"
+                        },
+                        "text": "@jakesimpsonmusic i love this shit too\ud83e\udd18",
+                        "viewer_has_liked": false
+                    }
+                }
+            ]
+        },
+        "edge_media_preview_like": {
+            "count": 161,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "\"Angry again\" ... again.\n#megadeth #angryagain #davemustaine #martyfriedman \n@megadeth @davemustaine @martyfriedman \n@epiphone \n@mathasguitars"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 41
+        },
+        "edge_media_to_parent_comment": {
+            "count": 41,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1558889533,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1558890779,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "17851081255435552",
+                                        "owner": {
+                                            "id": "5842712618",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/4352ab0a73353cd17d2050284bb6ea7b/5D8B29BF/t51.2885-19/s150x150/22858421_1974049802869598_6835265672184856576_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "sabbath_in_chains_"
+                                        },
+                                        "text": "@pedrorocha0410 i can live with that",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17866542541381855",
+                        "owner": {
+                            "id": "5537902114",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/c934c430d7bcb52c9cd14e3b59630055/5D9FF98C/t51.2885-19/s150x150/56640874_811632719213043_6884872480029147136_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "pedrorocha0410"
+                        },
+                        "text": "I cannot find words suitable to describe how great this is. So Imma just going to say \"great stuff\"!\ud83d\udc79",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1558889663,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1558890783,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "17992927246224216",
+                                        "owner": {
+                                            "id": "5842712618",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/4352ab0a73353cd17d2050284bb6ea7b/5D8B29BF/t51.2885-19/s150x150/22858421_1974049802869598_6835265672184856576_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "sabbath_in_chains_"
+                                        },
+                                        "text": "@goddamndevil \ud83e\udd18\ud83e\udd18",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18005732515202590",
+                        "owner": {
+                            "id": "1593473976",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/8c108a61d337c078d392d4d913e839d3/5D960E2B/t51.2885-19/s150x150/61854999_1046415038888141_1109138869984428032_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "goddamndevil"
+                        },
+                        "text": "Fuck yeah!!! \ud83e\udd18\ud83e\udd18",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1558889987,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1558890793,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "17847128311444955",
+                                        "owner": {
+                                            "id": "5842712618",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/4352ab0a73353cd17d2050284bb6ea7b/5D8B29BF/t51.2885-19/s150x150/22858421_1974049802869598_6835265672184856576_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "sabbath_in_chains_"
+                                        },
+                                        "text": "@gregrapaportguitar you too\ud83e\udd18\ud83c\udde8\ud83c\udde6",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18068769382027268",
+                        "owner": {
+                            "id": "6884439843",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/9640426664c2898c94d2ffa4cd0f50e2/5D946B06/t51.2885-19/49694978_591157218010236_6031655567158673408_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "gregrapaportguitar"
+                        },
+                        "text": "Nice!! Breaking out some soloing technique...sounding good man! Have a great Memorial Day  weekend\ud83d\ude0e",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1558890048,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1558890801,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "17991894703227457",
+                                        "owner": {
+                                            "id": "5842712618",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/4352ab0a73353cd17d2050284bb6ea7b/5D8B29BF/t51.2885-19/s150x150/22858421_1974049802869598_6835265672184856576_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "sabbath_in_chains_"
+                                        },
+                                        "text": "@n.1.k.o thanks again \ud83e\udd18",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17863563109396829",
+                        "owner": {
+                            "id": "1527143270",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/10943f98a8816b84102d76c5f0e5557f/5D997F76/t51.2885-19/s150x150/59787828_290244738532242_6721169350570541056_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "n.1.k.o"
+                        },
+                        "text": "Badass playing bro!! \ud83e\udd18\ud83c\udffb\ud83d\udd25\ud83d\udcaf",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1558890224,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1558890810,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "18039442696187286",
+                                        "owner": {
+                                            "id": "5842712618",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/4352ab0a73353cd17d2050284bb6ea7b/5D8B29BF/t51.2885-19/s150x150/22858421_1974049802869598_6835265672184856576_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "sabbath_in_chains_"
+                                        },
+                                        "text": "@steellemon thanks man\ud83e\udd18",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17850968680441506",
+                        "owner": {
+                            "id": "4722297131",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/7aba87ec491d9ddc4cbf68e970c93b93/5D8284E9/t51.2885-19/s150x150/16788655_1373413462679769_8078626543661744128_a.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "steellemon"
+                        },
+                        "text": "F%^* Yeah, man! Killer solo. Nicely done! \\m/ \\m/",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1558890348,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 2
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1558890817,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "18031932778160199",
+                                        "owner": {
+                                            "id": "5842712618",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/4352ab0a73353cd17d2050284bb6ea7b/5D8B29BF/t51.2885-19/s150x150/22858421_1974049802869598_6835265672184856576_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "sabbath_in_chains_"
+                                        },
+                                        "text": "@taylor_riff \ud83e\udd18\ud83e\udd18",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17959036003273013",
+                        "owner": {
+                            "id": "180642699",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/b1ffa7fd78441d72e15849fd0ab7e428/5D9411FE/t51.2885-19/s150x150/56913510_2276133489371576_5871388815263793152_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "taylor_riff"
+                        },
+                        "text": "Perfect tone for that solo!\ud83d\ude09\ud83e\udd18\ud83c\udffb",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1558890584,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1558890824,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "17973143338259363",
+                                        "owner": {
+                                            "id": "5842712618",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/4352ab0a73353cd17d2050284bb6ea7b/5D8B29BF/t51.2885-19/s150x150/22858421_1974049802869598_6835265672184856576_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "sabbath_in_chains_"
+                                        },
+                                        "text": "@pranaygupta96 \ud83e\udd18\ud83e\udd18",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17959387723300352",
+                        "owner": {
+                            "id": "8430376025",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/0294edeecbabc3cc2de167d3ba36fdbe/5D8750D8/t51.2885-19/s150x150/39116373_836433506559777_7975433941421129728_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "pranaygupta96"
+                        },
+                        "text": "Beefy solo on beefy neck\ud83e\udd18",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1558891251,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1558895281,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "18069257722003798",
+                                        "owner": {
+                                            "id": "5842712618",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/4352ab0a73353cd17d2050284bb6ea7b/5D8B29BF/t51.2885-19/s150x150/22858421_1974049802869598_6835265672184856576_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "sabbath_in_chains_"
+                                        },
+                                        "text": "@robvrscay one of my favorites too \ud83e\udd18\ud83c\udde8\ud83c\udde6\ud83e\udd18",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17868081460376765",
+                        "owner": {
+                            "id": "2910272475",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/f8e0f8dab55d4a1011ac4deb5e04f71d/5D805F5A/t51.2885-19/s150x150/42080459_242753239735913_7821178829480656896_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "robvrscay"
+                        },
+                        "text": "Killer !! ...one of my favorite tracks. Awesome bro \ud83e\udd18\ud83c\udde8\ud83c\udde6\ud83e\udd18",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1558892512,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1558895285,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "17854343380430014",
+                                        "owner": {
+                                            "id": "5842712618",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/4352ab0a73353cd17d2050284bb6ea7b/5D8B29BF/t51.2885-19/s150x150/22858421_1974049802869598_6835265672184856576_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "sabbath_in_chains_"
+                                        },
+                                        "text": "@nathan_raposo5 \ud83e\udd18\ud83e\udd18",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17974191577258313",
+                        "owner": {
+                            "id": "401439472",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/de4e3baca9b07d370f0b9f624be63d6d/5D8174DF/t51.2885-19/s150x150/62031986_308516833422680_5805860778401595392_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "nathan_raposo5"
+                        },
+                        "text": "Amazing \ud83e\udd18\ud83c\udffc",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1558892849,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1558895294,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "18038028859179656",
+                                        "owner": {
+                                            "id": "5842712618",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/4352ab0a73353cd17d2050284bb6ea7b/5D8B29BF/t51.2885-19/s150x150/22858421_1974049802869598_6835265672184856576_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "sabbath_in_chains_"
+                                        },
+                                        "text": "@guitar_mileage thanks \ud83e\udd18\ud83e\udd18",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17857491358415213",
+                        "owner": {
+                            "id": "6309415871",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/f90672c88e4e385c05ef91996861bc83/5D89C2D1/t51.2885-19/s150x150/57395895_365801647393049_3348671337949298688_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "guitar_mileage"
+                        },
+                        "text": "Nice dude! Great tone!\ud83e\udd18\ud83c\udffb",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1558893636,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1558895317,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "18070204342017209",
+                                        "owner": {
+                                            "id": "5842712618",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/4352ab0a73353cd17d2050284bb6ea7b/5D8B29BF/t51.2885-19/s150x150/22858421_1974049802869598_6835265672184856576_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "sabbath_in_chains_"
+                                        },
+                                        "text": "@slaytaniccovers oh yeah... i meant to do that",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17843052358464716",
+                        "owner": {
+                            "id": "292781475",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/5883b381cf5cd25a6c6b7454690d4eab/5D984D42/t51.2885-19/s150x150/47584583_789607634718655_5398388404872282112_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "slaytaniccovers"
+                        },
+                        "text": "Love this solo. Nice editing by the way. Loops nicely",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1558894754,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1558895325,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "18068949832039260",
+                                        "owner": {
+                                            "id": "5842712618",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/4352ab0a73353cd17d2050284bb6ea7b/5D8B29BF/t51.2885-19/s150x150/22858421_1974049802869598_6835265672184856576_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "sabbath_in_chains_"
+                                        },
+                                        "text": "@aagen_ian thanks \ud83e\udd18",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18067913023025386",
+                        "owner": {
+                            "id": "1786030629",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/41475583f5c4968799e4b8eb973ff322/5DA56E8F/t51.2885-19/s150x150/30086442_230998780790156_8236934906433765376_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "aagen_ian"
+                        },
+                        "text": "Oh yeah\ud83e\udd18\ud83e\udd18\ud83e\udd18 kick ass bro. Love your control",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1558896581,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1558898893,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "17848195906444027",
+                                        "owner": {
+                                            "id": "5842712618",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/4352ab0a73353cd17d2050284bb6ea7b/5D8B29BF/t51.2885-19/s150x150/22858421_1974049802869598_6835265672184856576_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "sabbath_in_chains_"
+                                        },
+                                        "text": "@gregdrobotyvevo fuck yeah\ud83e\udd18",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17884612981350884",
+                        "owner": {
+                            "id": "6221962000",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/577927b4188999d5c98c9149304d70bb/5D959A97/t51.2885-19/s150x150/59427248_684407938681828_7478729430429335552_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "gregdrobotyvevo"
+                        },
+                        "text": "More Megadeth!\ud83e\udd18\ud83c\udffb",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1558897321,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1558898884,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "17847235285448974",
+                                        "owner": {
+                                            "id": "5842712618",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/4352ab0a73353cd17d2050284bb6ea7b/5D8B29BF/t51.2885-19/s150x150/22858421_1974049802869598_6835265672184856576_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "sabbath_in_chains_"
+                                        },
+                                        "text": "@hedbanger_auggy i can't play it right either",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18000283336222090",
+                        "owner": {
+                            "id": "2919298534",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/81c50f663a33c8c5ae67fdcde75c3ca2/5D879B72/t51.2885-19/s150x150/50140736_358059278109716_6363641506753937408_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "hedbanger_auggy"
+                        },
+                        "text": "I need help with learning this solo. I know all the notes I just can\u2019t play it right",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1558897633,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 2,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1558898845,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "17882717461357999",
+                                        "owner": {
+                                            "id": "5842712618",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/4352ab0a73353cd17d2050284bb6ea7b/5D8B29BF/t51.2885-19/s150x150/22858421_1974049802869598_6835265672184856576_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "sabbath_in_chains_"
+                                        },
+                                        "text": "@infectedguitars #metoo",
+                                        "viewer_has_liked": false
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "created_at": 1558899129,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "18070756324018710",
+                                        "owner": {
+                                            "id": "202638885",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/eab9c57dfc748a50b18f96fbd4d5b797/5D8D36D7/t51.2885-19/s150x150/12081115_972452556129207_2126208170_a.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "infectedguitars"
+                                        },
+                                        "text": "@sabbath_in_chains_ keep rippin dude",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18070593883001125",
+                        "owner": {
+                            "id": "202638885",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/eab9c57dfc748a50b18f96fbd4d5b797/5D8D36D7/t51.2885-19/s150x150/12081115_972452556129207_2126208170_a.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "infectedguitars"
+                        },
+                        "text": "Dude fuck yeah! I had been meaning to do this one myself. Great job man. Wish more people did megadeth",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1558900373,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1558901640,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "18069516271004478",
+                                        "owner": {
+                                            "id": "5842712618",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/4352ab0a73353cd17d2050284bb6ea7b/5D8B29BF/t51.2885-19/s150x150/22858421_1974049802869598_6835265672184856576_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "sabbath_in_chains_"
+                                        },
+                                        "text": "@izzy_plays_guitar \ud83e\udd18\ud83e\udd18",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17974439653253536",
+                        "owner": {
+                            "id": "9491496963",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/1b7c9cc97a539e1d1916bd1b6b715773/5D98B23A/t51.2885-19/s150x150/47256806_562992577507100_5363184091250294784_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "izzy_plays_guitar"
+                        },
+                        "text": "Greeeeat man \ud83d\udc4f\ud83c\udffd\ud83d\udc4f\ud83c\udffd\ud83d\udc4f\ud83c\udffd",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1558902158,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1558904146,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "18050886751117749",
+                                        "owner": {
+                                            "id": "5842712618",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/4352ab0a73353cd17d2050284bb6ea7b/5D8B29BF/t51.2885-19/s150x150/22858421_1974049802869598_6835265672184856576_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "sabbath_in_chains_"
+                                        },
+                                        "text": "@guitarchugs not always. I fucked up a few times on this one",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18066377011064750",
+                        "owner": {
+                            "id": "6895895875",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/bd85fc9bc154b3b05ebbea2acceccccc/5D855621/t51.2885-19/s150x150/62591666_370725837131760_6026878000157425664_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "guitarchugs"
+                        },
+                        "text": "Damn dude, you always kill it",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1558902968,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1558904156,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "17848145506444980",
+                                        "owner": {
+                                            "id": "5842712618",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/4352ab0a73353cd17d2050284bb6ea7b/5D8B29BF/t51.2885-19/s150x150/22858421_1974049802869598_6835265672184856576_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "sabbath_in_chains_"
+                                        },
+                                        "text": "@les_corneilles_de_louest \ud83e\udd18\ud83e\udd18",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17847198637443654",
+                        "owner": {
+                            "id": "9276651957",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/6cbca6977383facdf7d8b0b0d0f5d0c4/5D89C742/t51.2885-19/s150x150/55760256_1118657611639581_2926006883409985536_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "les_corneilles_de_louest"
+                        },
+                        "text": "\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1558903253,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1558904167,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "17966773432265918",
+                                        "owner": {
+                                            "id": "5842712618",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/4352ab0a73353cd17d2050284bb6ea7b/5D8B29BF/t51.2885-19/s150x150/22858421_1974049802869598_6835265672184856576_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "sabbath_in_chains_"
+                                        },
+                                        "text": "@andrewmassax fuck yeah... me too \ud83e\udd18",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18035395999158636",
+                        "owner": {
+                            "id": "8384390758",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/e170d070f52ac1cbe2a3fd94d21e83ab/5D93B2B6/t51.2885-19/s150x150/57453811_697787780637028_5524188276144996352_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "andrewmassax"
+                        },
+                        "text": "Yes! Love Megadeth!",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1558920543,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1559040599,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "18071250736059199",
+                                        "owner": {
+                                            "id": "5842712618",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/4352ab0a73353cd17d2050284bb6ea7b/5D8B29BF/t51.2885-19/s150x150/22858421_1974049802869598_6835265672184856576_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "sabbath_in_chains_"
+                                        },
+                                        "text": "@jakesimpsonmusic i love this shit too\ud83e\udd18",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17851270405438358",
+                        "owner": {
+                            "id": "336019463",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/89a540bc369acf017e0b5665570b8ced/5DC2A3E8/t51.2885-19/s150x150/58410109_2267274766651683_4174405476647174144_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "jakesimpsonmusic"
+                        },
+                        "text": "Love that solo, killer job on it man\ud83d\udd25",
+                        "viewer_has_liked": false
+                    }
+                }
+            ],
+            "page_info": {
+                "end_cursor": null,
+                "has_next_page": false
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "encoding_status": null,
+        "gating_info": null,
+        "has_ranked_comments": false,
+        "id": "2052434893960377215",
+        "is_ad": false,
+        "is_published": true,
+        "is_video": true,
+        "location": null,
+        "media_preview": null,
+        "owner": {
+            "blocked_by_viewer": false,
+            "followed_by_viewer": false,
+            "full_name": "no name",
+            "has_blocked_viewer": false,
+            "id": "5842712618",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/4352ab0a73353cd17d2050284bb6ea7b/5D8B29BF/t51.2885-19/s150x150/22858421_1974049802869598_6835265672184856576_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+            "requested_by_viewer": false,
+            "username": "sabbath_in_chains_"
+        },
+        "product_type": "feed",
+        "shortcode": "Bx7tqlrH_N_",
+        "should_log_client_event": false,
+        "taken_at_timestamp": 1558889363,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/d96f03b49c5808bad7264092987170d0/5D0A30AB/t51.2885-15/e35/c60.0.360.360a/s150x150/61254834_139450297129148_3497461271118022613_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/a37ae47c92c40c2716a6c4668c42cb99/5D09C061/t51.2885-15/e35/c60.0.360.360a/s240x240/61254834_139450297129148_3497461271118022613_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/1ba6bd524b148175e0a03a95ebfa80d4/5D0A4FDB/t51.2885-15/e35/c60.0.360.360a/s320x320/61254834_139450297129148_3497461271118022613_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/9964b353224c05db4f070de6d79d2050/5D09BE78/t51.2885-15/e35/c60.0.360.360a/61254834_139450297129148_3497461271118022613_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/9964b353224c05db4f070de6d79d2050/5D09BE78/t51.2885-15/e35/c60.0.360.360a/61254834_139450297129148_3497461271118022613_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            }
+        ],
+        "thumbnail_src": "https://instagram.faal2-1.fna.fbcdn.net/vp/9964b353224c05db4f070de6d79d2050/5D09BE78/t51.2885-15/e35/c60.0.360.360a/61254834_139450297129148_3497461271118022613_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+        "title": "",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiODQwOGExYWQ1MWY0NDkzOWJkYTY0MDlkOTFkMmI0YjcyMDUyNDM0ODkzOTYwMzc3MjE1In0sInNpZ25hdHVyZSI6IiJ9",
+        "video_duration": 44.1,
+        "video_url": "https://scontent.cdninstagram.com/vp/b2a3271b132d083c2c472d04802a582c/5D0AAEB5/t50.2886-16/61621043_445808296194393_544799391563644928_n.mp4?_nc_ht=scontent.cdninstagram.com",
+        "video_view_count": 335,
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

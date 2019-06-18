@@ -1,0 +1,489 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.2.8"
+    },
+    "node": {
+        "__typename": "GraphVideo",
+        "caption_is_edited": false,
+        "comments_disabled": false,
+        "dash_info": {
+            "is_dash_eligible": false,
+            "number_of_qualities": 0,
+            "video_dash_manifest": null
+        },
+        "dimensions": {
+            "height": 612,
+            "width": 612
+        },
+        "display_resources": [
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/9646dc65295dddfa5143e366bb505759/5D09E4EF/t51.2885-15/e15/61547993_301820120694149_1079198060250633750_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 750,
+                "config_width": 750,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/9646dc65295dddfa5143e366bb505759/5D09E4EF/t51.2885-15/e15/61547993_301820120694149_1079198060250633750_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 1080,
+                "config_width": 1080,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/9646dc65295dddfa5143e366bb505759/5D09E4EF/t51.2885-15/e15/61547993_301820120694149_1079198060250633750_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            }
+        ],
+        "display_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/9646dc65295dddfa5143e366bb505759/5D09E4EF/t51.2885-15/e15/61547993_301820120694149_1079198060250633750_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+        "edge_liked_by": {
+            "count": 27
+        },
+        "edge_media_preview_comment": {
+            "count": 13,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1559224974,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "id": "17885865277352034",
+                        "owner": {
+                            "id": "8566526009",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/dc8e8263785a4d328b29ed279dd81afa/5DC392B4/t51.2885-19/s150x150/42766268_740019616362308_7015205242606190592_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "postman_thirty3"
+                        },
+                        "text": "@kamau54 The problem is that they do it at all. It\u2019s not game what people went through.",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1560160173,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "id": "17889514990347025",
+                        "owner": {
+                            "id": "8437018692",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/5b8ca175f73f679e27187af303e9ea91/5DC373AE/t51.2885-19/s150x150/61865015_2173257362793352_2469287886583758848_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "ksdtravels"
+                        },
+                        "text": "Awesome picture \ud83d\ude0d",
+                        "viewer_has_liked": false
+                    }
+                }
+            ]
+        },
+        "edge_media_preview_like": {
+            "count": 27,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "RepostBy @blackowned.us: \"\ud83d\ude14\n#WakeUpStandUp\n#ThisIsAmerica \n#BlackOwnedNews\n#BlackOwnedUS\n\u2022\n#merica #share #melanin #colorado #territoryday #racism #melanin #culture #love #melaninpoppin #blacklove #blackisbeautiful #fortheculture #myblackisbeautiful #blackgirls #womenempowerment #metoo #videooftheday #photooftheday #blackgirlmagic #blackgirlsrock\""
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 13
+        },
+        "edge_media_to_parent_comment": {
+            "count": 13,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1559013433,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 2,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1559013859,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "17868381703391626",
+                                        "owner": {
+                                            "id": "8566526009",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/dc8e8263785a4d328b29ed279dd81afa/5DC392B4/t51.2885-19/s150x150/42766268_740019616362308_7015205242606190592_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "postman_thirty3"
+                                        },
+                                        "text": "@ruizawareness Right, this shit is crazy.",
+                                        "viewer_has_liked": false
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "created_at": 1559014422,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 2
+                                        },
+                                        "id": "17974880278252843",
+                                        "owner": {
+                                            "id": "1917905000",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/a744978a13415e7fbca3983e8ae815b0/5D915070/t51.2885-19/s150x150/47583307_1938900392875039_1474296173446561792_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "ruizawareness"
+                                        },
+                                        "text": "@postman_thirty3 The fact that they are doing it in front of everyone is disturbing.",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17903529472313539",
+                        "owner": {
+                            "id": "1917905000",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/a744978a13415e7fbca3983e8ae815b0/5D915070/t51.2885-19/s150x150/47583307_1938900392875039_1474296173446561792_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "ruizawareness"
+                        },
+                        "text": "WTF?",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559049659,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 3
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17935211092290475",
+                        "owner": {
+                            "id": "15141280",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/d1616475516aee08d8b998f73bec2906/5D7EE052/t51.2885-19/s150x150/52508203_414088635992122_1833654747073085440_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "haute_mami"
+                        },
+                        "text": "WTF...WHERE THE FUCK r her parents",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559142481,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18037637971158598",
+                        "owner": {
+                            "id": "1329753613",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/4b84cc74ad4e6def87b9ab6f06d99874/5D8FEFE7/t51.2885-19/10831810_588110297960158_366626011_a.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "chaseezra"
+                        },
+                        "text": "This is DUMB",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559163989,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 2
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18043209199189873",
+                        "owner": {
+                            "id": "31344001",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/81ad9d082b9ea28f49cd573fad824115/5D997485/t51.2885-19/s150x150/39486082_2205861369682822_5121486962741477376_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "eazythegreat"
+                        },
+                        "text": "Sad af!!!!",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559169442,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1559171515,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "17893266121332238",
+                                        "owner": {
+                                            "id": "8566526009",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/dc8e8263785a4d328b29ed279dd81afa/5DC392B4/t51.2885-19/s150x150/42766268_740019616362308_7015205242606190592_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "postman_thirty3"
+                                        },
+                                        "text": "@ayobreezy3 it\u2019s white supremacy doing what it does.",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17887983352345279",
+                        "owner": {
+                            "id": "30982944",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/58ec63cd1dcdcce8ee5da072d0e011dd/5DC1A02C/t51.2885-19/s150x150/56606542_474940366377736_4373565386495361024_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "ayobreezy3"
+                        },
+                        "text": "The hell is this ?",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559176671,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17854183072434241",
+                        "owner": {
+                            "id": "36871252",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/7c82ac8310b1609ca521ff4e3d43249e/5D829CF2/t51.2885-19/s150x150/58019624_413749982754610_8566529438303387648_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "iamjimmywaters"
+                        },
+                        "text": "Wtf?!",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559180152,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17857459579422135",
+                        "owner": {
+                            "id": "1980010016",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/898c10bc7684f6a6673230a39c9d2802/5D88F50D/t51.2885-19/s150x150/61705803_1318199964995959_6975638006715645952_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "jerseymoulin"
+                        },
+                        "text": "Woooooooo NAH",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559205203,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1559224974,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "17885865277352034",
+                                        "owner": {
+                                            "id": "8566526009",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/dc8e8263785a4d328b29ed279dd81afa/5DC392B4/t51.2885-19/s150x150/42766268_740019616362308_7015205242606190592_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "postman_thirty3"
+                                        },
+                                        "text": "@kamau54 The problem is that they do it at all. It\u2019s not game what people went through.",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17884096603354779",
+                        "owner": {
+                            "id": "256872909",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/829981bd8f18e716e11a8fbd77fda7f8/5D81B413/t51.2885-19/s150x150/61141927_315090812723518_4323988394314039296_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "kamau54"
+                        },
+                        "text": "Personally, I'm more worried about police murdering black men, women, and children. But naw, I ain't cool with this, even though they do it to anyone who wants it.",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1560160173,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17889514990347025",
+                        "owner": {
+                            "id": "8437018692",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/5b8ca175f73f679e27187af303e9ea91/5DC373AE/t51.2885-19/s150x150/61865015_2173257362793352_2469287886583758848_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "ksdtravels"
+                        },
+                        "text": "Awesome picture \ud83d\ude0d",
+                        "viewer_has_liked": false
+                    }
+                }
+            ],
+            "page_info": {
+                "end_cursor": null,
+                "has_next_page": false
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "encoding_status": null,
+        "gating_info": null,
+        "has_ranked_comments": false,
+        "id": "2053474054777690284",
+        "is_ad": false,
+        "is_published": true,
+        "is_video": true,
+        "location": null,
+        "media_preview": null,
+        "owner": {
+            "blocked_by_viewer": false,
+            "followed_by_viewer": false,
+            "full_name": "John Doe",
+            "has_blocked_viewer": false,
+            "id": "8566526009",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/dc8e8263785a4d328b29ed279dd81afa/5DC392B4/t51.2885-19/s150x150/42766268_740019616362308_7015205242606190592_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+            "requested_by_viewer": false,
+            "username": "postman_thirty3"
+        },
+        "product_type": "feed",
+        "shortcode": "Bx_Z8XmgVis",
+        "should_log_client_event": false,
+        "taken_at_timestamp": 1559013212,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/8070f48aa670827daa707120c8fd687d/5D09DC8E/t51.2885-15/e15/s150x150/61547993_301820120694149_1079198060250633750_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/fea4bf5a80b7cd45fd33e1fdde0bd227/5D0A3D84/t51.2885-15/e15/s240x240/61547993_301820120694149_1079198060250633750_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/3dcc40d7e97f098908ab851d64f91738/5D0AC03E/t51.2885-15/e15/s320x320/61547993_301820120694149_1079198060250633750_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/f88e202c5123cf7343cee726048814e7/5D0A3724/t51.2885-15/e15/s480x480/61547993_301820120694149_1079198060250633750_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/9646dc65295dddfa5143e366bb505759/5D09E4EF/t51.2885-15/e15/61547993_301820120694149_1079198060250633750_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            }
+        ],
+        "thumbnail_src": "https://instagram.faal2-1.fna.fbcdn.net/vp/9646dc65295dddfa5143e366bb505759/5D09E4EF/t51.2885-15/e15/61547993_301820120694149_1079198060250633750_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+        "title": "",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiMjc2NzBjMGIwYTM0NDVhNWFjNDNiOWJhZDBmOGUzNzgyMDUzNDc0MDU0Nzc3NjkwMjg0In0sInNpZ25hdHVyZSI6IiJ9",
+        "video_duration": 5.53,
+        "video_url": "https://scontent.cdninstagram.com/vp/59cb8e484b69f8ecba377277b27840fb/5D09ADEF/t50.2886-16/61290396_141488120303763_5342320045249440837_n.mp4?_nc_ht=scontent.cdninstagram.com",
+        "video_view_count": 213,
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

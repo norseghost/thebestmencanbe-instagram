@@ -1,0 +1,439 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.2.8"
+    },
+    "node": {
+        "__typename": "GraphVideo",
+        "caption_is_edited": false,
+        "comments_disabled": false,
+        "dash_info": {
+            "is_dash_eligible": false,
+            "number_of_qualities": 0,
+            "video_dash_manifest": null
+        },
+        "dimensions": {
+            "height": 936,
+            "width": 750
+        },
+        "display_resources": [
+            {
+                "config_height": 799,
+                "config_width": 640,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/95acc4a4a4f59101f46a52ea23f334e0/5D09BF77/t51.2885-15/sh0.08/e35/p640x640/61020104_799238663793415_3318603332389841116_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 936,
+                "config_width": 750,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/adbfb959589dfddedb9f99ee920a10a0/5D098B81/t51.2885-15/e35/61020104_799238663793415_3318603332389841116_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 1348,
+                "config_width": 1080,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/adbfb959589dfddedb9f99ee920a10a0/5D098B81/t51.2885-15/e35/61020104_799238663793415_3318603332389841116_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            }
+        ],
+        "display_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/adbfb959589dfddedb9f99ee920a10a0/5D098B81/t51.2885-15/e35/61020104_799238663793415_3318603332389841116_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+        "edge_liked_by": {
+            "count": 16
+        },
+        "edge_media_preview_comment": {
+            "count": 14,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1560048547,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "id": "17894513995331598",
+                        "owner": {
+                            "id": "9635989155",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/5218b53d6ff783d76b400e9a76447888/5D904482/t51.2885-19/s150x150/64462277_869803196701777_6116508805074255872_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "tiffinycontreras1"
+                        },
+                        "text": "@coachhml #metoo sis",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1560057545,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "id": "17882066305367164",
+                        "owner": {
+                            "id": "13961516683",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/b41ced08176deddce479e5da585c6ba1/5DA4606E/t51.2885-19/s150x150/60763343_646693035824791_5578988635753021440_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "strongliferawpromotions"
+                        },
+                        "text": "\u2764\ufe0f\ud83d\udcaf\ud83d\ude4f",
+                        "viewer_has_liked": false
+                    }
+                }
+            ]
+        },
+        "edge_media_preview_like": {
+            "count": 16,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "HAPPY SATURDAY INSTAGRAM FAMILY"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 14
+        },
+        "edge_media_to_parent_comment": {
+            "count": 14,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1560005814,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1560007744,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "17859102133426314",
+                                        "owner": {
+                                            "id": "9635989155",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/5218b53d6ff783d76b400e9a76447888/5D904482/t51.2885-19/s150x150/64462277_869803196701777_6116508805074255872_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "tiffinycontreras1"
+                                        },
+                                        "text": "@harmini731 \u2764\ufe0f\u2764\ufe0f\ud83d\ude18\ud83d\ude18",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18072651001020518",
+                        "owner": {
+                            "id": "475592934",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/10f4f6b8de6e169755bd2b85e14eae65/5D97192F/t51.2885-19/s150x150/46948266_567598613664899_6346243448936333312_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "harmini731"
+                        },
+                        "text": "\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1560005984,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 3,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1560007736,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "18036026965167000",
+                                        "owner": {
+                                            "id": "9635989155",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/5218b53d6ff783d76b400e9a76447888/5D904482/t51.2885-19/s150x150/64462277_869803196701777_6116508805074255872_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "tiffinycontreras1"
+                                        },
+                                        "text": "@lalagotclass \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0fI love u sis!! Your beautiful inside out !  May God continue to bless and favor you all@the days of your life! \u2764\ufe0f\ud83d\ude4f\ud83c\udfff\ud83d\udc83\ud83c\udfff",
+                                        "viewer_has_liked": false
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "created_at": 1560018272,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "18028333414198872",
+                                        "owner": {
+                                            "id": "688583189",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/901c321cc1de2bf59c3c406b81fc7c46/5D8FFEC2/t51.2885-19/s150x150/43913807_632374553830805_3633551502171176960_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "lalagotclass"
+                                        },
+                                        "text": "@tiffinycontreras1 I love you sis!! Your soul and spirit inspires me each and everyday. Next time I\u2019m in your area we have got to connect! Thank you!! \ud83d\ude18\ud83d\ude18\ud83d\ude18\ud83d\ude18\ud83d\ude18\ud83d\ude18\ud83d\ude18\ud83d\ude18\ud83d\ude18\ud83d\ude18\ud83d\ude18",
+                                        "viewer_has_liked": false
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "created_at": 1560024087,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "17906800978311989",
+                                        "owner": {
+                                            "id": "9635989155",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/5218b53d6ff783d76b400e9a76447888/5D904482/t51.2885-19/s150x150/64462277_869803196701777_6116508805074255872_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "tiffinycontreras1"
+                                        },
+                                        "text": "@lalagotclass thanks , I would love to \ud83d\ude4f\ud83c\udfff\ud83d\udc83\ud83c\udfff\u2764\ufe0f",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17995254052236579",
+                        "owner": {
+                            "id": "688583189",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/901c321cc1de2bf59c3c406b81fc7c46/5D8FFEC2/t51.2885-19/s150x150/43913807_632374553830805_3633551502171176960_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "lalagotclass"
+                        },
+                        "text": "\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1560035070,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18073927075047847",
+                        "owner": {
+                            "id": "8778899581",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/67d0bd78e42e70d90a2db9a4cb94ecd1/5D86BA04/t51.2885-19/s150x150/44515943_2245952752355094_3130626096123346944_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "strongliferaw"
+                        },
+                        "text": "\ud83d\ude01\ud83d\ude4f\ud83d\udcaf",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1560038571,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 5,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1560038744,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "17883518785364229",
+                                        "owner": {
+                                            "id": "9635989155",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/5218b53d6ff783d76b400e9a76447888/5D904482/t51.2885-19/s150x150/64462277_869803196701777_6116508805074255872_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "tiffinycontreras1"
+                                        },
+                                        "text": "@coachhml very well@thanks and you sis?",
+                                        "viewer_has_liked": false
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "created_at": 1560048351,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "17862353584411120",
+                                        "owner": {
+                                            "id": "256865983",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/e6858778f999261dab7c11bf8609ee61/5DC196B3/t51.2885-19/s150x150/60791895_881977068823088_3768942847164678144_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "coachhml"
+                                        },
+                                        "text": "@tiffinycontreras1 Sane here prepare for Pentecost on tomorrow ready for a Fresh Wind-",
+                                        "viewer_has_liked": false
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "created_at": 1560048547,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 1
+                                        },
+                                        "id": "17894513995331598",
+                                        "owner": {
+                                            "id": "9635989155",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/5218b53d6ff783d76b400e9a76447888/5D904482/t51.2885-19/s150x150/64462277_869803196701777_6116508805074255872_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "tiffinycontreras1"
+                                        },
+                                        "text": "@coachhml #metoo sis",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": "QVFBNU0wd1hnZ01vYzV2anBiWlZNZ0E4c2lYYzFCVE9HeV9ZMFlFc2FEblQwcEJ1YXJ6VUUzTDFRN3psTkp0NDlNYllnS0MxMElJVWlwQmpSMnBxYWZPbQ==",
+                                "has_next_page": true
+                            }
+                        },
+                        "id": "17861143108420088",
+                        "owner": {
+                            "id": "256865983",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/e6858778f999261dab7c11bf8609ee61/5DC196B3/t51.2885-19/s150x150/60791895_881977068823088_3768942847164678144_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "coachhml"
+                        },
+                        "text": "Happy Saturday evening \ud83e\udd17",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1560057545,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17882066305367164",
+                        "owner": {
+                            "id": "13961516683",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/b41ced08176deddce479e5da585c6ba1/5DA4606E/t51.2885-19/s150x150/60763343_646693035824791_5578988635753021440_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "strongliferawpromotions"
+                        },
+                        "text": "\u2764\ufe0f\ud83d\udcaf\ud83d\ude4f",
+                        "viewer_has_liked": false
+                    }
+                }
+            ],
+            "page_info": {
+                "end_cursor": null,
+                "has_next_page": false
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "encoding_status": null,
+        "gating_info": null,
+        "has_ranked_comments": false,
+        "id": "2061788684517383406",
+        "is_ad": false,
+        "is_published": true,
+        "is_video": true,
+        "location": null,
+        "media_preview": null,
+        "owner": {
+            "blocked_by_viewer": false,
+            "followed_by_viewer": false,
+            "full_name": "Tiffiny Contreras",
+            "has_blocked_viewer": false,
+            "id": "9635989155",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/5218b53d6ff783d76b400e9a76447888/5D904482/t51.2885-19/s150x150/64462277_869803196701777_6116508805074255872_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+            "requested_by_viewer": false,
+            "username": "tiffinycontreras1"
+        },
+        "product_type": "feed",
+        "shortcode": "Byc8eJ-lBzu",
+        "should_log_client_event": false,
+        "taken_at_timestamp": 1560005159,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/d468f21d45121cf2488ed0761027adbf/5D09AE4E/t51.2885-15/e35/c0.89.720.720/s150x150/61020104_799238663793415_3318603332389841116_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/60ba10fd630f81dd7d9dabdd755ef1f8/5D098784/t51.2885-15/e35/c0.89.720.720/s240x240/61020104_799238663793415_3318603332389841116_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/975769b16262066301e65a37d5eb3e92/5D0A027E/t51.2885-15/e35/c0.89.720.720/s320x320/61020104_799238663793415_3318603332389841116_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/3a85eaa6e90d3bae94606b1f4da6fa4f/5D09C024/t51.2885-15/e35/c0.89.720.720/s480x480/61020104_799238663793415_3318603332389841116_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/e1d76d1296a60c9af3df7b9743b4eb73/5D0A0B07/t51.2885-15/sh0.08/e35/c0.89.720.720/s640x640/61020104_799238663793415_3318603332389841116_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            }
+        ],
+        "thumbnail_src": "https://instagram.faal2-1.fna.fbcdn.net/vp/e1d76d1296a60c9af3df7b9743b4eb73/5D0A0B07/t51.2885-15/sh0.08/e35/c0.89.720.720/s640x640/61020104_799238663793415_3318603332389841116_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+        "title": "",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOTJmZjAzYTE0YjI5NDQwODhkNzMzZjYxNjlhNjhjNmYyMDYxNzg4Njg0NTE3MzgzNDA2In0sInNpZ25hdHVyZSI6IiJ9",
+        "video_duration": 59.32,
+        "video_url": "https://scontent.cdninstagram.com/vp/c0f393bc291b97babbc9282f4e16d679/5D09BC51/t50.2886-16/62002633_847796438931610_1131150113519960064_n.mp4?_nc_ht=scontent.cdninstagram.com",
+        "video_view_count": 31,
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

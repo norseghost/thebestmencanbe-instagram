@@ -1,0 +1,252 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.2.8"
+    },
+    "node": {
+        "__typename": "GraphVideo",
+        "caption_is_edited": true,
+        "comments_disabled": false,
+        "dash_info": {
+            "is_dash_eligible": false,
+            "number_of_qualities": 0,
+            "video_dash_manifest": null
+        },
+        "dimensions": {
+            "height": 640,
+            "width": 640
+        },
+        "display_resources": [
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/94e125ba47fa097e1eee682876e0dbcf/5D09FFAB/t51.2885-15/e15/49933449_384477515458351_84010885512223599_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 750,
+                "config_width": 750,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/94e125ba47fa097e1eee682876e0dbcf/5D09FFAB/t51.2885-15/e15/49933449_384477515458351_84010885512223599_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 1080,
+                "config_width": 1080,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/94e125ba47fa097e1eee682876e0dbcf/5D09FFAB/t51.2885-15/e15/49933449_384477515458351_84010885512223599_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            }
+        ],
+        "display_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/94e125ba47fa097e1eee682876e0dbcf/5D09FFAB/t51.2885-15/e15/49933449_384477515458351_84010885512223599_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+        "edge_liked_by": {
+            "count": 30
+        },
+        "edge_media_preview_comment": {
+            "count": 2,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1547838490,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "id": "18010404283106071",
+                        "owner": {
+                            "id": "1909205523",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/31f8eaae21b5d47cfe77af54eb3ccc7b/5D8F687D/t51.2885-19/11095638_742065822573627_303026466_a.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "winston.chiang"
+                        },
+                        "text": "I posted a postmortem, ill link you stuff tonight!",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1547848264,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "id": "18020864590064789",
+                        "owner": {
+                            "id": "7452742008",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/7bfcf1003cbd25b5a7ae9e96fd99facd/5D931514/t51.2885-19/s150x150/61762575_2037784589848842_4247172152605802496_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "typedout.co"
+                        },
+                        "text": "@winston.chiang werk!",
+                        "viewer_has_liked": false
+                    }
+                }
+            ]
+        },
+        "edge_media_preview_like": {
+            "count": 30,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "How do we recognize behaviors in ourselves and make the change within to affect change without? Have a listen to my convo with @winston.chiang about toxic masculinity in the Man Under Fire episode of the Typed Out podcast!\n\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\n+++\n\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\n#typedout #toxicpeople #toxicmasculinity #gillette #gillettead #thebestamancanget #masculine #masculinity #lgbtq #bipoc #manunderfire #masc4masc #podcasts #podcasting #socialchange"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 2
+        },
+        "edge_media_to_parent_comment": {
+            "count": 2,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1547838490,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1547848264,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "18020864590064789",
+                                        "owner": {
+                                            "id": "7452742008",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/7bfcf1003cbd25b5a7ae9e96fd99facd/5D931514/t51.2885-19/s150x150/61762575_2037784589848842_4247172152605802496_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "typedout.co"
+                                        },
+                                        "text": "@winston.chiang werk!",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18010404283106071",
+                        "owner": {
+                            "id": "1909205523",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/31f8eaae21b5d47cfe77af54eb3ccc7b/5D8F687D/t51.2885-19/11095638_742065822573627_303026466_a.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "winston.chiang"
+                        },
+                        "text": "I posted a postmortem, ill link you stuff tonight!",
+                        "viewer_has_liked": false
+                    }
+                }
+            ],
+            "page_info": {
+                "end_cursor": null,
+                "has_next_page": false
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": [
+                {
+                    "node": {
+                        "user": {
+                            "full_name": "Winston Chiang",
+                            "id": "1909205523",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/31f8eaae21b5d47cfe77af54eb3ccc7b/5D8F687D/t51.2885-19/11095638_742065822573627_303026466_a.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "winston.chiang"
+                        },
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                },
+                {
+                    "node": {
+                        "user": {
+                            "full_name": "Typed Out",
+                            "id": "7452742008",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/7bfcf1003cbd25b5a7ae9e96fd99facd/5D931514/t51.2885-19/s150x150/61762575_2037784589848842_4247172152605802496_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "typedout.co"
+                        },
+                        "x": 0.0,
+                        "y": 0.0
+                    }
+                }
+            ]
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "encoding_status": null,
+        "gating_info": null,
+        "has_ranked_comments": false,
+        "id": "1959701012541862107",
+        "is_ad": false,
+        "is_published": true,
+        "is_video": true,
+        "location": null,
+        "media_preview": "ACoqSYkE9eQOeevP/wBaqzFn9uB+f+eK05oQ+NrYwfTrWa6BG2swHfOOnt6e9ZWOtSXmOznHPpnj3GaR85wOmeMfTp7c/pUscKS9HGB14FPCRA7SwLDnjuOv86LDUk+5FbSybxvLFcdMnGfp7c4+lau2s91THysPyPrV8NjjIo9RS02KcjkL8vc/5x2rJlIZsknBPJ/GtB3AHzdKpygk8YA/lTJJoWiTIU8HqCPT/HrTX2mVccYHYdqiQ4GDg+h4p6ER85BJ4o6lE6gFsA1d3VTRx1yM+1P80UBJ3KkjA8VAQBSmkegNhMCjI6UylI6UCuSw4Z9q8k1Z3VmnqacGOOpoBn//2Q==",
+        "owner": {
+            "blocked_by_viewer": false,
+            "followed_by_viewer": false,
+            "full_name": "Typed Out",
+            "has_blocked_viewer": false,
+            "id": "7452742008",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/7bfcf1003cbd25b5a7ae9e96fd99facd/5D931514/t51.2885-19/s150x150/61762575_2037784589848842_4247172152605802496_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+            "requested_by_viewer": false,
+            "username": "typedout.co"
+        },
+        "product_type": "feed",
+        "shortcode": "BsyQbAeh_Db",
+        "should_log_client_event": false,
+        "taken_at_timestamp": 1547834603,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/bcce0a2deea3a77e394467c9a154d681/5D09EF56/t51.2885-15/e15/s150x150/49933449_384477515458351_84010885512223599_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/c1bdf39098d771f8be679a41ab91f847/5D0A07BB/t51.2885-15/e15/s240x240/49933449_384477515458351_84010885512223599_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/87ffc77c6b97cdedc3fe861317f371a0/5D0A1EA8/t51.2885-15/e15/s320x320/49933449_384477515458351_84010885512223599_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/ae688d5b1d8d87b6800d63988baf0417/5D09DA34/t51.2885-15/e15/s480x480/49933449_384477515458351_84010885512223599_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/94e125ba47fa097e1eee682876e0dbcf/5D09FFAB/t51.2885-15/e15/49933449_384477515458351_84010885512223599_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            }
+        ],
+        "thumbnail_src": "https://instagram.faal2-1.fna.fbcdn.net/vp/94e125ba47fa097e1eee682876e0dbcf/5D09FFAB/t51.2885-15/e15/49933449_384477515458351_84010885512223599_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+        "title": "",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOGM3ZDU2NjdmM2EzNDAzZTgyYTM1YmY1YTBmZGMyN2IxOTU5NzAxMDEyNTQxODYyMTA3In0sInNpZ25hdHVyZSI6IiJ9",
+        "video_duration": 38.65,
+        "video_url": "https://scontent.cdninstagram.com/vp/2daabc6f16e12ba7b6ffb0bfebfba95c/5D09A562/t50.2886-16/50825906_2111376865567169_1694632995073294336_n.mp4?_nc_ht=scontent.cdninstagram.com",
+        "video_view_count": 80,
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

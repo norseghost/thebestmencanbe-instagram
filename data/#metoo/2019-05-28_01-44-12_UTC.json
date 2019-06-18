@@ -1,0 +1,738 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.2.8"
+    },
+    "node": {
+        "__typename": "GraphVideo",
+        "caption_is_edited": false,
+        "comments_disabled": false,
+        "dash_info": {
+            "is_dash_eligible": false,
+            "number_of_qualities": 0,
+            "video_dash_manifest": null
+        },
+        "dimensions": {
+            "height": 750,
+            "width": 750
+        },
+        "display_resources": [
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/26cd9ae9627660f51633b214c04c674a/5D09DAE4/t51.2885-15/sh0.08/e35/s640x640/60283999_598798490614492_678116367312005085_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 750,
+                "config_width": 750,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/b6aa387181b4d90918b6d238fd1fca4a/5D09F117/t51.2885-15/e35/60283999_598798490614492_678116367312005085_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 1080,
+                "config_width": 1080,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/b6aa387181b4d90918b6d238fd1fca4a/5D09F117/t51.2885-15/e35/60283999_598798490614492_678116367312005085_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            }
+        ],
+        "display_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/b6aa387181b4d90918b6d238fd1fca4a/5D09F117/t51.2885-15/e35/60283999_598798490614492_678116367312005085_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+        "edge_liked_by": {
+            "count": 1568
+        },
+        "edge_media_preview_comment": {
+            "count": 710,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1560370653,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "id": "18076191661062612",
+                        "owner": {
+                            "id": "7809542551",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/edf0365f7d0128ab28e50b04e17b538e/5D835B43/t51.2885-19/s150x150/38051827_2143880112526344_4565422675119308800_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "superautobrokerg"
+                        },
+                        "text": "WTF??????",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1560622530,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "id": "17879496031372703",
+                        "owner": {
+                            "id": "3618379960",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/fa3f9efd68ebde85ae9b8b8238fc044a/5D825211/t51.2885-19/s150x150/30084010_231052077640064_7827531279384969216_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "emckellar"
+                        },
+                        "text": "O nah bruh",
+                        "viewer_has_liked": false
+                    }
+                }
+            ]
+        },
+        "edge_media_preview_like": {
+            "count": 1568,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "\ud83d\ude14\n#WakeUpStandUp\n#ThisIsAmerica \n#BlackOwnedNews\n#BlackOwnedUS\n\u2022\n#merica #share #melanin #colorado #territoryday #racism #melanin #culture #love #melaninpoppin #blacklove #blackisbeautiful #fortheculture #myblackisbeautiful #blackgirls #womenempowerment #metoo #videooftheday #photooftheday #blackgirlmagic #blackgirlsrock"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 710
+        },
+        "edge_media_to_parent_comment": {
+            "count": 710,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1559496707,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1559507662,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "18071210449044798",
+                                        "owner": {
+                                            "id": "1715289457",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/9ae0c566eb96a205685cc2dd43907a69/5D931AEF/t51.2885-19/s150x150/43707912_475572523185623_6647217315177824256_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "wolfgirl_400"
+                                        },
+                                        "text": "@rubiieredd dude! Wtf....uggghhhh",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17845353247464953",
+                        "owner": {
+                            "id": "259625150",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/742aecde60de8e8154661ccb8e30aea5/5D82A202/t51.2885-19/10735577_862587787107242_1370724681_a.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "rubiieredd"
+                        },
+                        "text": "@wolfgirl_400 wtf?!",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559496748,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18044537869086943",
+                        "owner": {
+                            "id": "6716608775",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/8f39e1c476940b321dcf9d479897a063/5D84F009/t51.2885-19/s150x150/53482478_1721166471361830_6810201140693565440_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "the_cookie.monster"
+                        },
+                        "text": "WHAT\ud83d\udc4f\ud83c\udffe THE\ud83d\udc4f\ud83c\udffe FUCK\ud83d\udc4f\ud83c\udffe",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559498589,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17967077641263144",
+                        "owner": {
+                            "id": "4284158720",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/fe4e3adada8142bcf11ce60b31b80bea/5D926BCF/t51.2885-19/s150x150/59935623_2877239992502021_8738793829152325632_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "hhh.oney"
+                        },
+                        "text": "Dude WHAT THE ACTUAL FUCK IS WRONG WITH PEOPLE",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559500771,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17850081517453014",
+                        "owner": {
+                            "id": "5662332384",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/08b1079505de71028527237ee7f54fc5/5D8FDE48/t51.2885-19/s150x150/27576765_154022481967528_4371179871464849408_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "_rkrts"
+                        },
+                        "text": "what the fuck-",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559502060,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18038892658151678",
+                        "owner": {
+                            "id": "954980193",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/4a5612e73330e88c8131a22a2b8646fc/5D8070B0/t51.2885-19/s150x150/26262656_1243357485765583_2936474788157194240_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "head_daddi"
+                        },
+                        "text": "Da FUCK\ud83e\udd14\ud83e\udd14",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559522429,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17853204082436000",
+                        "owner": {
+                            "id": "8888990",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/c1c93ed2a68a349332f0c2e133da5f06/5DA0BD90/t51.2885-19/s150x150/61542715_2181620121892650_7080778625733099520_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "theartindustryllc"
+                        },
+                        "text": "@tabii_justme",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559522552,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17870179876378608",
+                        "owner": {
+                            "id": "8888990",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/c1c93ed2a68a349332f0c2e133da5f06/5DA0BD90/t51.2885-19/s150x150/61542715_2181620121892650_7080778625733099520_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "theartindustryllc"
+                        },
+                        "text": "Every excuse in the book when it comes to the mistreatment of us",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559533113,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17977829566255562",
+                        "owner": {
+                            "id": "13740958977",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/c14ee61370cd8979544a5d170b6d23c8/5D84474D/t51.2885-19/s150x150/61528921_444188369480159_1924058302505811968_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "_emilluminati_"
+                        },
+                        "text": "HOLD ON WHAT",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559534634,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17937238702289293",
+                        "owner": {
+                            "id": "12415436298",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/c42efd9c4bdec4d2f88334e6fc3a830a/5D828FF7/t51.2885-19/s150x150/61229495_2302081866717796_666118383585984512_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "maylilygl"
+                        },
+                        "text": "They needed to use dummies for this exhibition...There is no way to explain it away...It just ain't right...Even after describing the purpose of the exhibition, it's just not appropriate...The cat had the parents tongue? The little didn't have anyone to speak up for her? Err on the side of caution people\ud83d\ude35",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559539041,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17854478134437967",
+                        "owner": {
+                            "id": "370731026",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/053b541bd0144a23092010f9932bd88f/5D99171A/t51.2885-19/s150x150/19228218_1419053384806919_8679373111230988288_a.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "dgavila96"
+                        },
+                        "text": "It\u2019s culture",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559542760,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17845513270463794",
+                        "owner": {
+                            "id": "273938390",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/f8e9e58c1206213edcdff00972fcd55d/5DC18BCD/t51.2885-19/s150x150/61956557_185868065689042_1480853866953048064_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "valeriavillalobos_"
+                        },
+                        "text": "Wtf",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559567286,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18049473232124173",
+                        "owner": {
+                            "id": "12831628165",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/cb808a5912a4b661a1f78d66aa824abb/5D847F26/t51.2885-19/s150x150/62406222_1073837249473962_6631703429448204288_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "l3sti"
+                        },
+                        "text": "What the fuck",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559572953,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17850191728453319",
+                        "owner": {
+                            "id": "1943313854",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/329a540f45fa550a3dd9b56975aa2f22/5D7F2A62/t51.2885-19/s150x150/13129375_279221655752654_537311911_a.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "cocobutterfly558"
+                        },
+                        "text": "Truly an off bunch...",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559592884,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1559606756,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "17854675663435258",
+                                        "owner": {
+                                            "id": "1642840557",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/f788c49079f0685bb51ff188717f1147/5D89128A/t51.2885-19/s150x150/56428400_308519069843913_4103325730698428416_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "jerkdusoleil"
+                                        },
+                                        "text": "@kiid_bison *sings* NIGGA WE MADE IT",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18067954774069564",
+                        "owner": {
+                            "id": "42233433",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/f13a17f304a0cc6def5d034c1e9e448b/5DA13D40/t51.2885-19/s150x150/13402419_1726198220968809_277586160_a.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "kiid_bison"
+                        },
+                        "text": "@jerkdusoleil \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02 good fuckin lord bruh \ud83d\ude44\ud83d\udc86\ud83c\udffd\u200d\u2642\ufe0f",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559606035,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17951561443303326",
+                        "owner": {
+                            "id": "459230491",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/f1486fa8a45eaae21c79b8092358ffbb/5D990368/t51.2885-19/s150x150/61141658_624547004676429_3628804773035114496_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "sorryimselfish"
+                        },
+                        "text": "What the actual fuck lmao i live in Colorado not once have i ever seen this at territory days",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559778014,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17887656472354096",
+                        "owner": {
+                            "id": "628672165",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/cddcdc1cef89c78b07d5a7e3947a951b/5D8AF309/t51.2885-19/s150x150/42004245_162606611347546_8759818140742844416_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "truuthfully"
+                        },
+                        "text": "@intelligent_problem",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1560012732,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18046649482081559",
+                        "owner": {
+                            "id": "6393115918",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/0d75b415400557cab6e6b6873edb9068/5D882CEC/t51.2885-19/s150x150/60490720_478886306182711_5498331490691317760_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "tenbucksuck"
+                        },
+                        "text": "It\u2019s about lassoing not whipped and it was about the cowboys not slavery",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1560366568,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18077008345035389",
+                        "owner": {
+                            "id": "7776359855",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/bf5ad6f89f537beb6b88042532961602/5D818DA6/t51.2885-19/s150x150/64569657_815324245505853_3673958142175084544_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "kirkstadgaf"
+                        },
+                        "text": "First off who allowed this to even happen it needs to be taken down right now!!",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1560370653,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18076191661062612",
+                        "owner": {
+                            "id": "7809542551",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/edf0365f7d0128ab28e50b04e17b538e/5D835B43/t51.2885-19/s150x150/38051827_2143880112526344_4565422675119308800_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "superautobrokerg"
+                        },
+                        "text": "WTF??????",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1560622530,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17879496031372703",
+                        "owner": {
+                            "id": "3618379960",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/fa3f9efd68ebde85ae9b8b8238fc044a/5D825211/t51.2885-19/s150x150/30084010_231052077640064_7827531279384969216_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "emckellar"
+                        },
+                        "text": "O nah bruh",
+                        "viewer_has_liked": false
+                    }
+                }
+            ],
+            "page_info": {
+                "end_cursor": "QVFCRHIwQnQtNVprUExLT0R0dUt4UWdpZTQ4bXhBd1JMMktWWjRVYUlvTDVrTUtnRk1PckcyRnIyZ1lNT1YyOUZsVlpvVEU5WlI2bzhjWFhLRmlFRmpmUQ==",
+                "has_next_page": true
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "encoding_status": null,
+        "gating_info": null,
+        "has_ranked_comments": false,
+        "id": "2053427795807429262",
+        "is_ad": false,
+        "is_published": true,
+        "is_video": true,
+        "location": null,
+        "media_preview": null,
+        "owner": {
+            "blocked_by_viewer": false,
+            "followed_by_viewer": false,
+            "full_name": "Black Owned US LLC.",
+            "has_blocked_viewer": false,
+            "id": "3519331400",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/fe7fd7e13db4c2e54607138b50d74c7b/5D806340/t51.2885-19/s150x150/58626677_671241720000357_3181221777237868544_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+            "requested_by_viewer": false,
+            "username": "blackowned.us"
+        },
+        "product_type": "feed",
+        "shortcode": "Bx_PbNlA-KO",
+        "should_log_client_event": false,
+        "taken_at_timestamp": 1559007852,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/749714000569460dc5b68b886289f512/5D09C645/t51.2885-15/e35/s150x150/60283999_598798490614492_678116367312005085_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/86e10abc393c1eefb27eb7de831db35b/5D09B9B0/t51.2885-15/e35/s240x240/60283999_598798490614492_678116367312005085_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/a3753cc3f839641e08e08e7a5ebff681/5D0A49C8/t51.2885-15/e35/s320x320/60283999_598798490614492_678116367312005085_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/b5a267f320ef0a288825e3a14ff62590/5D09E394/t51.2885-15/e35/s480x480/60283999_598798490614492_678116367312005085_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/26cd9ae9627660f51633b214c04c674a/5D09DAE4/t51.2885-15/sh0.08/e35/s640x640/60283999_598798490614492_678116367312005085_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            }
+        ],
+        "thumbnail_src": "https://instagram.faal2-1.fna.fbcdn.net/vp/26cd9ae9627660f51633b214c04c674a/5D09DAE4/t51.2885-15/sh0.08/e35/s640x640/60283999_598798490614492_678116367312005085_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+        "title": "",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiY2IxY2M3NGM0NzI0NDY4YmJlMWIwNTBhNTI1YzIxYjEyMDUzNDI3Nzk1ODA3NDI5MjYyIn0sInNpZ25hdHVyZSI6IiJ9",
+        "video_duration": 5.67,
+        "video_url": "https://scontent.cdninstagram.com/vp/e7595888de12d03b5f2b837dcc913d25/5D0A46CC/t50.2886-16/61473629_106034903890081_9171451812874463875_n.mp4?_nc_ht=scontent.cdninstagram.com",
+        "video_view_count": 76068,
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

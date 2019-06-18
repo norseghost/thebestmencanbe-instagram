@@ -1,0 +1,842 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.2.8"
+    },
+    "node": {
+        "__typename": "GraphVideo",
+        "caption_is_edited": false,
+        "comments_disabled": false,
+        "dash_info": {
+            "is_dash_eligible": false,
+            "number_of_qualities": 0,
+            "video_dash_manifest": null
+        },
+        "dimensions": {
+            "height": 480,
+            "width": 480
+        },
+        "display_resources": [
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/6ebad6df7953894b53a3123199a3c520/5D09A426/t51.2885-15/e35/61770945_360525007940709_2213079299880356703_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 750,
+                "config_width": 750,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/6ebad6df7953894b53a3123199a3c520/5D09A426/t51.2885-15/e35/61770945_360525007940709_2213079299880356703_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 1080,
+                "config_width": 1080,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/6ebad6df7953894b53a3123199a3c520/5D09A426/t51.2885-15/e35/61770945_360525007940709_2213079299880356703_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            }
+        ],
+        "display_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/6ebad6df7953894b53a3123199a3c520/5D09A426/t51.2885-15/e35/61770945_360525007940709_2213079299880356703_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+        "edge_liked_by": {
+            "count": 2240
+        },
+        "edge_media_preview_comment": {
+            "count": 26,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1559771590,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "id": "18073272364056127",
+                        "owner": {
+                            "id": "4184130252",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/58ad10fa444d377d34afbe92290cd470/5DC248B0/t51.2885-19/s150x150/54277254_420784281822684_6961187782521782272_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "durbek_eshboboyev"
+                        },
+                        "text": "Bosin oka ... Ovozi qareng....\ud83d\ude02\ud83d\udcaa\ud83d\udcaa\ud83d\udcaa\ud83d\udd25\ud83d\udd25",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559793994,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "id": "18040746295148718",
+                        "owner": {
+                            "id": "8443758194",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/79a5b3ad59af6880138dea5525b94891/5D8C0DB3/t51.2885-19/s150x150/60363670_357891515083744_475148018593562624_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "edik.0.11"
+                        },
+                        "text": "\ud83e\udd26\u200d\u2642\ufe0f\ud83e\udd26\u200d\u2642\ufe0f\ud83e\udd26\u200d\u2642\ufe0f\ud83e\udd26\u200d\u2642\ufe0f",
+                        "viewer_has_liked": false
+                    }
+                }
+            ]
+        },
+        "edge_media_preview_like": {
+            "count": 2240,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02 Dizayn 2018 konsert dasturidan parcha\n::::::::::::::::::::::::::::::::::::::::::::::::::::::::\n\ud83c\uddfa\ud83c\uddff Murojaat uchun \ud83d\udc49 @muzaffarmirzo.uz\n\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\n@uzbekshounews @uzbekshounews\n@shounews.uz @shounews.uz\n\u2796\u2796\u2796\u2796\u2796\u2796\u2796\u2796\n#uzb #tashkent #fortnite #marchforourlives #love #baby #\u0443\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d #uzbekistan #girl #model #fashion #style #music #my5uzb #uzbekshounews #metoo #timesup ."
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 26
+        },
+        "edge_media_to_parent_comment": {
+            "count": 26,
+            "edges": [
+                {
+                    "node": {
+                        "created_at": 1559664396,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 4
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17876574616373938",
+                        "owner": {
+                            "id": "4608377237",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/7ed6929a4a90ab592ba69b9771b048e1/5D80A55B/t51.2885-19/s150x150/25037164_261350287732571_6227287900107571200_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "sarvarjonashurov"
+                        },
+                        "text": "\u044f\u0448\u0430 \u043a\u0430\u0448\u043a\u0430\u0434\u0430\u0440\u0451\ud83d\ude22 \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\ude22",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559664504,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 5
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1559697770,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "17866411873396076",
+                                        "owner": {
+                                            "id": "6974560119",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/384c655a60196704040837ace58fef55/5DC51551/t51.2885-19/s150x150/30087677_169326817226944_2453295008921419776_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "salikhov_ibrokhim"
+                                        },
+                                        "text": "@kadyrova_1990 \ud83d\ude02",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17887403839351213",
+                        "owner": {
+                            "id": "5921781739",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/9442e0ab512a2cbfa5a2686286e91e39/5D960FE7/t51.2885-19/s150x150/32225828_2109660035934401_3459556093473062912_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "kadyrova_1990"
+                        },
+                        "text": "Toba qildim Astagfurulloh guruhi\ud83d\ude02\ud83d\ude02",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559665407,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17950352818305149",
+                        "owner": {
+                            "id": "4165279441",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/638c7f3417ac984dd8fbdc1d9c3b12e6/5DA1FAE0/t51.2885-19/s150x150/59781365_445390162932337_6257913022677778432_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "dannybeelen.music"
+                        },
+                        "text": "Nice!\ud83d\udc4c\ud83c\udffc",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559665967,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17975956957262022",
+                        "owner": {
+                            "id": "14436260640",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/dd21629e46e476054c4777ae45917d36/5DC5F55E/t51.2885-19/s150x150/61251663_1916205421817389_3131542934202089472_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "jurayev0507"
+                        },
+                        "text": "Bollar Likin Yorvoribsilar",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559667916,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18038593795155794",
+                        "owner": {
+                            "id": "7232845383",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/dfaf9392e63f9feaa6fe43842e4a0ab5/5D8F15E2/t51.2885-19/s150x150/47584160_1189586414529772_6239821959002062848_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "iskandar04_24"
+                        },
+                        "text": "Bir gala quylar och qolganga uxshidi betayin hamasi\ud83d\ude0f",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559668095,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17885109493359349",
+                        "owner": {
+                            "id": "14203778423",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/3c4ff2f8a244438458a16c9cef4133f4/5D921860/t51.2885-19/s150x150/64658516_2267010693548574_1409122772033994752_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "bonu7811"
+                        },
+                        "text": "\u0411\u043e\u0440\u0438 \u0443\u043b\u0438\u043a \u0442\u043e\u0440\u0442\u0438\u044f\u043f\u0442\u0438\u043c\u0438",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559671261,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 2
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17856654769430564",
+                        "owner": {
+                            "id": "6537313479",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/96fbe131cb22e89c5517ac6d0550b5ec/5D966FA7/t51.2885-19/s150x150/56622607_284260825830007_5807337396747894784_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "akula_0o"
+                        },
+                        "text": "\u0412\u0430\u043e\u043e\u043e\u043e\u043e\u043e\u043e\u043e\u043e\u043e\u043e\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83e\udd23\ud83e\udd23",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559671959,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 1,
+                            "edges": [
+                                {
+                                    "node": {
+                                        "created_at": 1559701528,
+                                        "did_report_as_spam": false,
+                                        "edge_liked_by": {
+                                            "count": 0
+                                        },
+                                        "id": "18071605231065380",
+                                        "owner": {
+                                            "id": "8483320470",
+                                            "is_verified": false,
+                                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/f01108772a5f161586b039eb3d884e59/5D853616/t51.2885-19/s150x150/52725476_322635581717830_3812974091674058752_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                                            "username": "shokhrukh_goodman2002"
+                                        },
+                                        "text": "@sherzodbek096 \ud83d\ude02+",
+                                        "viewer_has_liked": false
+                                    }
+                                }
+                            ],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17866333726395527",
+                        "owner": {
+                            "id": "8982116958",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/c1b06dac1403558c42e6b1404ca60cbb/5D91EB34/t51.2885-19/s150x150/53495568_314120695852399_5863538800457678848_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "sherzodbek096"
+                        },
+                        "text": "Bita piliso\u2018s uchun 10 yil yuzungni ko\u2018taralmaysan qishlog\u2018ingda\ud83d\ude04",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559677081,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17995497649224386",
+                        "owner": {
+                            "id": "9162146222",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.fevn1-1.fna.fbcdn.net/vp/6f93007a0a63b5586375f376465dd2e2/5DA39AF1/t51.2885-19/44884218_345707102882519_2446069589734326272_n.jpg?_nc_ht=instagram.fevn1-1.fna.fbcdn.net",
+                            "username": "ramazon_ra"
+                        },
+                        "text": "Dizayinnni konsertini eng qiziq joyi",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559679890,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18008551465202504",
+                        "owner": {
+                            "id": "4099354201",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/b1df4f471919b5b35101e285ede5692c/5DA1229A/t51.2885-19/s150x150/47693448_345661282892880_6974730995522076672_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "bekzunnurov_o2o4"
+                        },
+                        "text": "XaLqGa KuLGu BoPTi cHmo\ud83d\ude10",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559688913,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18054831079104532",
+                        "owner": {
+                            "id": "8435853127",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/22d31c89e946fe7097a78aee6febb446/5D8F6FA5/t51.2885-19/s150x150/62557766_2387576451568309_6609406819695591424_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "fayziyevofficial__1o1o"
+                        },
+                        "text": "\u0414\u0435\u0431\u0438\u043b\ud83d\ude05",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559701611,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 2
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18072447244003249",
+                        "owner": {
+                            "id": "8483320470",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/f01108772a5f161586b039eb3d884e59/5D853616/t51.2885-19/s150x150/52725476_322635581717830_3812974091674058752_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "shokhrukh_goodman2002"
+                        },
+                        "text": "\u0415\u043c\u0430\u0451 \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83e\udd23\ud83e\udd23",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559705176,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18072174607007729",
+                        "owner": {
+                            "id": "13769841169",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/856cb496f54bbfe1df533b6a505d293b/5D921ACD/t51.2885-19/s150x150/60241226_426497164599003_3184543474879823872_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "dilafruz_rahimovna"
+                        },
+                        "text": "\u041d\u0438\u043c\u0430 \u0431\u0443? \u041d\u0430 \u043c\u0430\u044a\u043d\u043e,\u043d\u0430 \u043c\u0430\u043d\u0442\u0438\u043a \u0431\u043e\u0440.\u0442\u0443\u0433\u0440\u0438,\u0442\u0443\u0448\u0443\u043d\u0430\u0440\u043b\u0438 \u044d\u043e\u0439\u0438\u043d\u0438 \u043a\u0443\u0439\u0441\u0438\u043d",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559719009,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17905807342310325",
+                        "owner": {
+                            "id": "14078054785",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/b2bf8c4f1312caf4903e90ff14d5451f/5D83693A/t51.2885-19/s150x150/61354899_359304531456689_4118975345984536576_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "shoxruzchorshanbiev"
+                        },
+                        "text": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4c",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559723839,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17856907846430242",
+                        "owner": {
+                            "id": "7478924868",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/a8c7596386cd3f7639f721866682239b/5D8A7AAD/t51.2885-19/s150x150/62243754_332005607750940_2822883490272378880_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "abdusattarovabdumalik03"
+                        },
+                        "text": "\u0425\u0430\u0440\u044b\u043f",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559726257,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17859266248424245",
+                        "owner": {
+                            "id": "9253273826",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/97675ff5eb9a2eacfaf555ede92f6d68/5D91F5AB/t51.2885-19/s150x150/57331506_276628366549239_5843144101007982592_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "boburr987"
+                        },
+                        "text": "Xa erkak erkak",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559726972,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17895438565336155",
+                        "owner": {
+                            "id": "13374226506",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.fevn1-1.fna.fbcdn.net/vp/6f93007a0a63b5586375f376465dd2e2/5DA39AF1/t51.2885-19/44884218_345707102882519_2446069589734326272_n.jpg?_nc_ht=instagram.fevn1-1.fna.fbcdn.net",
+                            "username": "murodulla.7"
+                        },
+                        "text": "Klass\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4f\ud83d\udc4f",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559728284,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17870733943382791",
+                        "owner": {
+                            "id": "8528064510",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.fevn1-1.fna.fbcdn.net/vp/6f93007a0a63b5586375f376465dd2e2/5DA39AF1/t51.2885-19/44884218_345707102882519_2446069589734326272_n.jpg?_nc_ht=instagram.fevn1-1.fna.fbcdn.net",
+                            "username": "baxodir489"
+                        },
+                        "text": "Kallasiga xuyam bu bolani 4 sum pul uchhun qashqadaryoni nomini sotib rol uynab berdimi bu bola boshqa viloyatligi tayin konsertdan oldin xammasi kelishilgan",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559728565,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17895483373326530",
+                        "owner": {
+                            "id": "1643560869",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/34f79504c48cfd71d43ea91db9702c74/5D996E1E/t51.2885-19/s150x150/60805531_2314523562144879_8460718224567173120_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "yulduz__8710"
+                        },
+                        "text": "\u0421\u0430\u043b\u0430\u043c\u0430\u0442\u0441\u044b\u0437\u0434\u0430\u0440\ud83d\ude4f\ud83c\udffb\n\u0411\u0435\u043a\u0435\u0440 \u043a\u0430\u0442\u0442\u0430\u043b\u044b\u043f 2000 \u0441\u043e\u043c\u0434\u0443\u043a \u0442\u043e\u0432\u0430\u0440\u0434\u044b\ud83d\udecd\ud83d\uded2\n1000\u0441\u043e\u043c \u0430\u043b\u0433\u044b\u043d\u044b\u0437 \u043a\u0435\u043b\u0435\u0431\u0438\ud83e\udd29\ud83e\udd29\ud83e\udd29\n\u0410\u043d\u044b\u043d \u0448\u0430\u0440\u0442\u0442\u0430\u0440\u044b \u043e\u043d\u043e\u0439 \u0436\u0430\u043d\u0430 \u0436\u043e\u043d\u043e\u043a\u043e\u0439.\ud83d\ude4b\ud83d\ude4b\ud83d\ude4b\n1.\u0411\u0435\u043a\u0435\u0440 \u043a\u0430\u0442\u0442\u0430\u043b\u0430\u0441\u044b\u0437.\n2. 1000 \u0441\u043e\u043c \u0441\u0440\u0430\u0437\u0443 \u0441\u0447\u0435\u0442\u0443\u043d\u0443\u0437\u0433\u0430 \u0442\u0443\u0448\u043e\u0442.\n3.\u0411\u0430\u043b\u043b \u0431\u0435\u0440\u0438\u043b\u0435\u0442\n4. \u0410\u0439\u043b\u044b\u043a\u0430 \u0447\u044b\u0433\u0430\u0441\u044b\u0437\n\ud83d\udcf2+996- 755-00-84-13\n\u0412\u0430\u0442\u0441\u0430\u043f \u043d\u043e\u043c\u0435\u0440\u0438\u043c \u043a\u0430\u0439\u0440\u044b\u043b\u0441\u0430\u043d\u044b\u0437\u0434\u0430\u0440 \u0431\u043e\u043b\u043e\u0442.\n\u0410\u043b\u0434\u044b\u043d \u0430\u043b\u0430 \u0440\u0430\u0445\u043c\u0430\u0442 \u0441\u0438\u0437\u0434\u0435\u0440\u0433\u0435.\ufeff. . .",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559747188,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18064262068078436",
+                        "owner": {
+                            "id": "2050243292",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/33cabd0ce97370693003d2bb72c9ab08/5DC3F57A/t51.2885-19/s150x150/29094669_2055455958055547_902794287303884800_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "adori27"
+                        },
+                        "text": "\u041d\u0438\u043c\u0430 \u0431\u0434\u0438??\u0447\u0443\u043d\u043c\u0430\u0434\u0438\u043c. \ud83d\ude33\ud83d\ude33",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559747647,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17864678614404466",
+                        "owner": {
+                            "id": "10029649688",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/2fe97b801bf6e05af85680123270d088/5DA4092E/t51.2885-19/s150x150/64481245_2294102964134857_1960486471353761792_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "shoxruh_0191"
+                        },
+                        "text": "\u0419\u043e\u0440\u0432\u043e\u0440\u0434\u0438",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559758517,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 1
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "17895314428331698",
+                        "owner": {
+                            "id": "9452530436",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/de6c73c1a1f5c835bda728d5b6865293/5D8E3EDD/t51.2885-19/s150x150/61264765_392402824820505_2069171134175117312_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "shoxrux_858_shox"
+                        },
+                        "text": "Xa cheshkendan \ud83d\ude02",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559771590,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18073272364056127",
+                        "owner": {
+                            "id": "4184130252",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/58ad10fa444d377d34afbe92290cd470/5DC248B0/t51.2885-19/s150x150/54277254_420784281822684_6961187782521782272_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "durbek_eshboboyev"
+                        },
+                        "text": "Bosin oka ... Ovozi qareng....\ud83d\ude02\ud83d\udcaa\ud83d\udcaa\ud83d\udcaa\ud83d\udd25\ud83d\udd25",
+                        "viewer_has_liked": false
+                    }
+                },
+                {
+                    "node": {
+                        "created_at": 1559793994,
+                        "did_report_as_spam": false,
+                        "edge_liked_by": {
+                            "count": 0
+                        },
+                        "edge_threaded_comments": {
+                            "count": 0,
+                            "edges": [],
+                            "page_info": {
+                                "end_cursor": null,
+                                "has_next_page": false
+                            }
+                        },
+                        "id": "18040746295148718",
+                        "owner": {
+                            "id": "8443758194",
+                            "is_verified": false,
+                            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/79a5b3ad59af6880138dea5525b94891/5D8C0DB3/t51.2885-19/s150x150/60363670_357891515083744_475148018593562624_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+                            "username": "edik.0.11"
+                        },
+                        "text": "\ud83e\udd26\u200d\u2642\ufe0f\ud83e\udd26\u200d\u2642\ufe0f\ud83e\udd26\u200d\u2642\ufe0f\ud83e\udd26\u200d\u2642\ufe0f",
+                        "viewer_has_liked": false
+                    }
+                }
+            ],
+            "page_info": {
+                "end_cursor": null,
+                "has_next_page": false
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "encoding_status": null,
+        "gating_info": null,
+        "has_ranked_comments": false,
+        "id": "2058931562321764486",
+        "is_ad": false,
+        "is_published": true,
+        "is_video": true,
+        "location": null,
+        "media_preview": null,
+        "owner": {
+            "blocked_by_viewer": false,
+            "followed_by_viewer": false,
+            "full_name": "UZBEK SHOU BIZNES \ud83d\udc97 733k",
+            "has_blocked_viewer": false,
+            "id": "4132821798",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.faal2-1.fna.fbcdn.net/vp/9e11d0617cefa5fb45a829a841bfca52/5D939975/t51.2885-19/s150x150/60774211_2202590200052328_4628725708468781056_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+            "requested_by_viewer": false,
+            "username": "uzbekshounews"
+        },
+        "product_type": "feed",
+        "shortcode": "BySy1jlB2CG",
+        "should_log_client_event": false,
+        "taken_at_timestamp": 1559663819,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/2af96b58f70ce1d134c7fcd325a10982/5D09FD24/t51.2885-15/e35/s150x150/61770945_360525007940709_2213079299880356703_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/91e6952b81e94f382262c2c42bdd4d4d/5D09936E/t51.2885-15/e35/s240x240/61770945_360525007940709_2213079299880356703_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/d08cb46957a14c62c5809fecacdeb5f9/5D0A2314/t51.2885-15/e35/s320x320/61770945_360525007940709_2213079299880356703_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/6ebad6df7953894b53a3123199a3c520/5D09A426/t51.2885-15/e35/61770945_360525007940709_2213079299880356703_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.faal2-1.fna.fbcdn.net/vp/6ebad6df7953894b53a3123199a3c520/5D09A426/t51.2885-15/e35/61770945_360525007940709_2213079299880356703_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net"
+            }
+        ],
+        "thumbnail_src": "https://instagram.faal2-1.fna.fbcdn.net/vp/6ebad6df7953894b53a3123199a3c520/5D09A426/t51.2885-15/e35/61770945_360525007940709_2213079299880356703_n.jpg?_nc_ht=instagram.faal2-1.fna.fbcdn.net",
+        "title": "",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiMDlkYzM3MzFkYmJjNGU3YWIyYjQ2NGRhMmYzM2M2ZGMyMDU4OTMxNTYyMzIxNzY0NDg2In0sInNpZ25hdHVyZSI6IiJ9",
+        "video_duration": 36.269,
+        "video_url": "https://scontent.cdninstagram.com/vp/bf99466112d158801dfb25ea352de8a4/5D09CA16/t50.2886-16/62411595_378296143035988_3325635225022627840_n.mp4?_nc_ht=scontent.cdninstagram.com",
+        "video_view_count": 66916,
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}
